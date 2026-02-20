@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Ynet Main News</title>
+  <link>https://spz.local/ynet-main-news.xml</link>
+  <description>Feed from Ynet Main News - with images and summaries</description>
+  <language>he</language>
+  <lastBuildDate>Fri, 20 Feb 2026 10:22:26 +0000</lastBuildDate>
+  <atom:link href="https://spz.local/ynet-main-news.xml" rel="self" type="application/rss+xml" />
+  <generator>SPZ Aggregator v2.0 (Per-Feed)</generator>
+  <item>
+    <title>בריטניה חוסמת את ארה&quot;ב משימוש ב&quot;אי המפציצים&quot; לתקיפה באיראן</title>
+    <link>https://www.ynet.co.il/news/article/b1h9pihdzx</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/b1h9pihdzx</guid>
+    <description><![CDATA[<img src="https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/18/SJgP65Fsle/SJgP65Fsle_493_425_2043_1150_0_large.jpg" alt="בריטניה חוסמת את ארה&quot;ב משימוש ב&quot;אי המפציצים&quot; לתקיפה באיראן" style="max-width:100%;height:auto;" />
+
+<p>כלי התקשורת בבריטניה מדווחים כי ממשלת בריטניה לא נתנה לארצות הברית אישור להשתמש בבסיסיה הצבאיים באי &quot;דייגו גרסיה&quot; כחלק ממתקפה אפשרית נגד איראן - וזאת בניגוד לעבר, אז השתמשה ארה&quot;ב בבסיס לצורך מבצעים שונים במזרח התיכון.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Main News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/b1h9pihdzx" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <enclosure url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/18/SJgP65Fsle/SJgP65Fsle_493_425_2043_1150_0_large.jpg" type="image/jpeg" length="0" />
+    <media:content url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/18/SJgP65Fsle/SJgP65Fsle_493_425_2043_1150_0_large.jpg" type="image/jpeg" medium="image" />
+    <pubDate>Fri, 20 Feb 2026 12:09:05 +0200</pubDate>
+    <category>news</category>
+  </item>
+</channel>
+</rss>
