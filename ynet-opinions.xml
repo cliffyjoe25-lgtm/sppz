@@ -1,109 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Ynet Opinions</title>
   <link>https://spz.local/ynet-opinions.xml</link>
-  <description>Ynet Opinions - SPZ Feed</description>
-  <lastBuildDate>Sun, 22 Feb 2026 13:38:16 +0000</lastBuildDate>
+  <description>Feed from Ynet Opinions - with images and summaries</description>
+  <language>he</language>
+  <lastBuildDate>Sun, 22 Feb 2026 23:15:11 +0000</lastBuildDate>
+  <atom:link href="https://spz.local/ynet-opinions.xml" rel="self" type="application/rss+xml" />
+  <generator>SPZ Aggregator v2.0 (Per-Feed)</generator>
   <item>
-    <title>אסטרטגיית נתניהו: יזהיר שהערבים נוהרים לקלפי, כדי שינהרו</title>
-    <link>https://www.ynet.co.il/news/article/sywkml00dwx</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/sywkml00dwx</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/sywkml00dwx'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/10/23/BywtE2euw/BywtE2euw_0_0_640_360_0_medium.jpg' alt='בנימין נתניהו ומנסור עבאס' title='בנימין נתניהו ומנסור עבאס' border='0' width='100' height='56'></a></div>הדרך להשתלבות אמיתית של ערביי ישראל בחברה הישראלית אינה בדלנות אלא השתלבות במפלגות כלל-ישראליות. ככל שיצביעו למפלגות ערביות, אלה ממילא יישארו באופוזיציה ולא יוכלו לדאוג לאזרחים הערבים]]></description>
-    <twitter_summary><![CDATA[אסטרטגיית נתניהו: יזהיר שהערבים נוהרים לקלפי, כדי שינהרו
-<div><a href='https://www.ynet.co.il/news/article/sywkml00dwx'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/10/23/BywtE2euw/BywtE...
-👉 https://www.ynet.co.il/news/article/sywkml00dwx]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 12:40:18 +0200</pubDate>
+    <title>הבריחה מברלין</title>
+    <link>https://www.ynet.co.il/news/article/yokra14687921</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14687921</guid>
+    <description><![CDATA[<img src="https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/20/HyhzVK9Ugg/HyhzVK9Ugg_0_0_3000_1689_0_large.jpg" alt="הבריחה מברלין" style="max-width:100%;height:auto;" />
+
+<p>חג המולד, השנה החדשה, זיקוקים, שבוע האופנה, פסטיבל הסרטים הברלינאי, ואיתו הדרישה המחודשת של ערפדי התרבות, האמנות, התקשורת והאינטלקטאוליה הגרמנים לנצל את פלטפורמות התרבות שלהם להקזת דם ישראלית (מדובר רק בישראלים: הגרמנים נוהגים בצמר גפן ביהודים המתים. רק הישראלי החדש, זה שמעז לקום ולהגן על עצמו, מביא להם את הג’ננה).</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Opinions
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/yokra14687921" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[הבריחה מברלין
+רק הישראלי החדש, זה שמעז לקום ולהגן על עצמו, מביא להם את הג’ננה). (Ynet Opinions)
+👉 https://www.ynet.co.il/news/article/yokra14687921]]></twitter_summary>
+    <enclosure url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/20/HyhzVK9Ugg/HyhzVK9Ugg_0_0_3000_1689_0_large.jpg" type="image/jpeg" length="0" />
+    <media:content url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/20/HyhzVK9Ugg/HyhzVK9Ugg_0_0_3000_1689_0_large.jpg" type="image/jpeg" medium="image" />
+    <pubDate>Mon, 23 Feb 2026 00:06:00 +0200</pubDate>
+    <category>opinion</category>
   </item>
   <item>
-    <title>בפוליטיקה דחיית הכרעה היא טקטיקה. במלחמה היא אסון</title>
-    <link>https://www.ynet.co.il/news/article/r1lc5buu11x</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/r1lc5buu11x</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/r1lc5buu11x'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/11/SJzl79CtDWg/SJzl79CtDWg_0_0_1300_732_0_medium.jpg' alt='כוחות חמושים של חמאס ברצועה, בדצמבר האחרון' title='כוחות חמושים של חמאס ברצועה, בדצמבר האחרון' border='0' width='100' height='56'></a></div>לאחר 7 באוקטובר הייתה לישראל הזדמנות לעצב מציאות אחרת. אילו כבר בימים הראשונים הייתה מוצגת תוכנית ברורה ליום שאחרי שלטון אזרחי חלופי, מעורבות אזורית ואופק מדיני, סביר שהלחימה הייתה קצרה יותר, הלגיטימציה הבינלאומית הייתה נשמרת זמן רב יותר, והלחץ להשבת החטופים היה מאוחד וחזק יותר]]></description>
-    <twitter_summary><![CDATA[בפוליטיקה דחיית הכרעה היא טקטיקה. במלחמה היא אסון
-<div><a href='https://www.ynet.co.il/news/article/r1lc5buu11x'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/11/SJzl79CtDWg/SJz...
-👉 https://www.ynet.co.il/news/article/r1lc5buu11x]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 11:52:10 +0200</pubDate>
+    <title>שנה לכהונת הרמטכ&quot;ל: זמיר והתעויוט</title>
+    <link>https://www.ynet.co.il/news/article/yokra14687948</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14687948</guid>
+    <description><![CDATA[<img src="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/04/ry7yq11xWwWl/ry7yq11xWwWl_0_0_1601_901_0_large.jpg" alt="שנה לכהונת הרמטכ&quot;ל: זמיר והתעויוט" style="max-width:100%;height:auto;" />
+
+<p>רגע לפני חגיגות השנה לכהונת הרמטכ&quot;ל, ב&quot;אולפן שישי&quot; (חדשות 12) העניקו לו שי לא צנוע: מונולוג נימוח באורך ארבע וקצת דקות, 99.7 אחוז מתוכן מחמאות לצד הערה כללית על כך שהיו גם &quot;טעויות&quot;, ובראשן שרב-אלוף אייל זמיר לא קורא במפורש להקמת ועדת חקירה ממלכתית. הדובר – תרתי משמע – היה ניר דבורי, זה שרק לאחרונה היכה בספרו על כך ש&quot;לא הייתי מספיק ספקן&quot; כלפי הצבא טרום 7 באוקטובר.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Opinions
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/yokra14687948" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[שנה לכהונת הרמטכ"ל: זמיר והתעויוט
+הדובר – תרתי משמע – היה ניר דבורי, זה שרק לאחרונה היכה בספרו על כך ש"לא הייתי מספיק ספקן" כלפי הצבא טרום 7 באוקטובר. (Ynet Opinions)
+👉 https://www.ynet.co.il/news/article/yokra14687948]]></twitter_summary>
+    <enclosure url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/04/ry7yq11xWwWl/ry7yq11xWwWl_0_0_1601_901_0_large.jpg" type="image/jpeg" length="0" />
+    <media:content url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/04/ry7yq11xWwWl/ry7yq11xWwWl_0_0_1601_901_0_large.jpg" type="image/jpeg" medium="image" />
+    <pubDate>Mon, 23 Feb 2026 00:04:00 +0200</pubDate>
+    <category>opinion</category>
   </item>
   <item>
-    <title>איבוד כיוון בעזה</title>
-    <link>https://www.ynet.co.il/news/article/yokra14686364</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14686364</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/yokra14686364'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/11/rkeCh9RYDbl/rkeCh9RYDbl_0_0_1920_1080_0_medium.jpg' alt=' ' title='עזה בהריסות ' border='0' width='100' height='56'></a></div>מול החתירה הבינלאומית לסדר חדש ברצועה, מציעה ישראל פתרון אחד בלבד: חזרה ללחימה. כמו לאורך כל המלחמה, גם כעת אין שום דיון מעמיק בשאלת היום שאחרי, וכרגיל פנטזיות וסיסמאות מחליפות מדיניות מפוכחת]]></description>
-    <twitter_summary><![CDATA[איבוד כיוון בעזה
-<div><a href='https://www.ynet.co.il/news/article/yokra14686364'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/11/rkeCh9RYDbl/r...
-👉 https://www.ynet.co.il/news/article/yokra14686364]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 00:10:00 +0200</pubDate>
+    <title>ההפתעה הבאה עלולה להגיע מוקדם מהצפוי</title>
+    <link>https://www.ynet.co.il/news/article/yokra14687633</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14687633</guid>
+    <description><![CDATA[<img src="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/22/yk14687910/yk14687910_0_29_480_271_0_large.jpg" alt="ההפתעה הבאה עלולה להגיע מוקדם מהצפוי" style="max-width:100%;height:auto;" />
+
+<p>&quot;מועצת השלום&quot; שהתכנסה בבית הלבן בראשות הנשיא טראמפ אולי תביא לפירוק חמאס מנשקו, ואולי לא. אם לא, תחל הספירה לאחור לקראת חידוש הלחימה בעזה. גם לגבי המו״מ בין ארה&quot;ב לבין איראן עדיין רב הנסתר על הנגלה. האם יושג הסכם? ואם כן, האם הוא ישים קץ לסיוע העצום של איראן לארגוני הטרור? ובאין הסכם, האם תהיה תקיפה אמריקאית? ואם תהיה תקיפה, מה תהיה השפעתה על חמאס בעזה?</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Opinions
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/yokra14687633" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[ההפתעה הבאה עלולה להגיע מוקדם מהצפוי
+"מועצת השלום" שהתכנסה בבית הלבן בראשות הנשיא טראמפ אולי תביא לפירוק חמאס מנשקו, ואולי לא. אם לא, תחל הספירה לאחור לקראת חידוש הלחימה בעזה. גם לגבי המו״מ בין ארה"ב לבין אירא... (Ynet Opinions)
+👉 https://www.ynet.co.il/news/article/yokra14687633]]></twitter_summary>
+    <enclosure url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/22/yk14687910/yk14687910_0_29_480_271_0_large.jpg" type="image/jpeg" length="0" />
+    <media:content url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/22/yk14687910/yk14687910_0_29_480_271_0_large.jpg" type="image/jpeg" medium="image" />
+    <pubDate>Mon, 23 Feb 2026 00:04:00 +0200</pubDate>
+    <category>opinion</category>
   </item>
   <item>
-    <title>שאלת הרוגלות: הידיים אינן כבולות</title>
-    <link>https://www.ynet.co.il/news/article/yokra14686371</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14686371</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/yokra14686371'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/02/SyiQVSS4Zg/SyiQVSS4Zg_0_0_850_479_0_medium.jpg' alt=' ' title=' ' border='0' width='100' height='56'></a></div>ב-2022 נאסר על המשטרה להשתמש ברוגלות, כלי עוצמתי וחשוב למלחמה בפשיעה. ארבע שנים אחרי, האלימות בחברה הערבית שוברת שיאים, אך חוק שיסייע בהתמודדות תקוע בגלל סכסוך בין הממשלה ליועמ"שית]]></description>
-    <twitter_summary><![CDATA[שאלת הרוגלות: הידיים אינן כבולות
-<div><a href='https://www.ynet.co.il/news/article/yokra14686371'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/02/SyiQVSS4Zg/Sy...
-👉 https://www.ynet.co.il/news/article/yokra14686371]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 00:08:00 +0200</pubDate>
-  </item>
-  <item>
-    <title>הגיע זמן הצ&apos;רצ&apos;יל</title>
-    <link>https://www.ynet.co.il/news/article/yokra14686350</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14686350</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/yokra14686350'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/22/rkX1LVuu11g/rkX1LVuu11g_0_0_850_479_0_medium.jpg' alt='צייר פורה. ווינסטון צ'רצ'יל' title='צייר פורה. ווינסטון צ'רצ'יל' border='0' width='100' height='56'></a></div>צ'רצ'יל לימד את האנושות כי אם נגזר עלינו להילחם ברשע, זה ללא פשרות. אתה לא מכיל אותו, אתה לא מבין אותו, אתה יוצא למחות אותו. למרות ההטעיות שטראמפ מפיץ, גם הוא מבין זאת במלחמתו באיראן]]></description>
-    <twitter_summary><![CDATA[הגיע זמן הצ'רצ'יל
-<div><a href='https://www.ynet.co.il/news/article/yokra14686350'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/22/rkX1LVuu11g/r...
-👉 https://www.ynet.co.il/news/article/yokra14686350]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 00:06:00 +0200</pubDate>
-  </item>
-  <item>
-    <title>נסיעה באוטובוס הפכה לנסיעת מבחן על החיים שלנו</title>
-    <link>https://www.ynet.co.il/news/article/yokra14686357</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14686357</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/yokra14686357'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/08/09/HkylVhg3h/HkylVhg3h_0_0_1000_667_0_medium.jpg' alt='אוטובוס של חברת דן בתל אביב' title='אוטובוס' border='0' width='100' height='56'></a></div>מי לא עלה על אוטובוס ועף, או נאחז באימה כדי לא לעוף – אבל זה לא עזר? נוח "להאשים" את האוטובוסים החשמליים, ואכן זו בעיה שחובה לנצח אותה, אבל חובה גם להתייחס לאיש הכי חשוב באוטובוס – זה שיושב מאחורי ההגה]]></description>
-    <twitter_summary><![CDATA[נסיעה באוטובוס הפכה לנסיעת מבחן על החיים שלנו
-<div><a href='https://www.ynet.co.il/news/article/yokra14686357'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/08/09/HkylVhg3h/Hky...
-👉 https://www.ynet.co.il/news/article/yokra14686357]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 00:04:00 +0200</pubDate>
-  </item>
-  <item>
-    <title>עכשיו לך תסביר שעמדת עו&quot;ד שפטל  היא לא עמדת ישראל</title>
-    <link>https://www.ynet.co.il/news/article/skktlevdze</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/skktlevdze</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/skktlevdze'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/Hkpx6VwDZe/Hkpx6VwDZe_0_0_3000_1689_0_medium.jpg' alt='יריב לוין' title='יריב לוין' border='0' width='100' height='56'></a></div>ממש עכשיו קיבלנו דוגמה לאופן שבו ייראה ייצוג המדינה בבתי המשפט אם החוק החדש "לפיצול" תפקיד היועצת המשפטית לממשלה יעבור בכנסת - כשעורך הדין מטעמו של לוין יצר תקרית מול האיחוד האירופי]]></description>
-    <twitter_summary><![CDATA[עכשיו לך תסביר שעמדת עו"ד שפטל  היא לא עמדת ישראל
-<div><a href='https://www.ynet.co.il/news/article/skktlevdze'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/Hkpx6VwDZe/Hkpx6...
-👉 https://www.ynet.co.il/news/article/skktlevdze]]></twitter_summary>
-    <pubDate>Sat, 21 Feb 2026 15:25:15 +0200</pubDate>
-  </item>
-  <item>
-    <title>האזרח הקטן והמחיר הגדול</title>
-    <link>https://www.ynet.co.il/news/article/yokra14684330</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14684330</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/yokra14684330'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/19/ry9o95E0011x/ry9o95E0011x_0_0_1275_718_0_medium.jpg' alt='|' title='מימין: לוין. פוזיציה לא פשוטה, כנפי־שטייניץ. תחת העומס, בן גביר. מאבק סמכויות' border='0' width='100' height='56'></a></div>שני בג"צים נפיצים מציבים את בית המשפט העליון מול שרי המשפטים והביטחון הלאומי. אבל מאחורי העימות החוקתי מסתתרת שאלה פשוטה יותר: מי דואג לשירות, לביטחון האישי ולתפקוד מערכת המשפט בזמן שהפוליטיקה גוברת על הכל]]></description>
-    <twitter_summary><![CDATA[האזרח הקטן והמחיר הגדול
-<div><a href='https://www.ynet.co.il/news/article/yokra14684330'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/19/ry9o95E0011x/...
-👉 https://www.ynet.co.il/news/article/yokra14684330]]></twitter_summary>
-    <pubDate>Sat, 21 Feb 2026 15:17:30 +0200</pubDate>
-  </item>
-  <item>
-    <title>בחינת ריבונותה של מדינת ישראל</title>
-    <link>https://www.ynet.co.il/news/article/yokra14684932</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14684932</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/yokra14684932'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/19/yk14685436/yk14685436_0_0_785_442_0_medium.jpg' alt='טראמפ. אסור להיות תלויים בו בחימושים צבאיים ובמתן חנינה | צילום: אי-אף-פי, MANDEL NGAN' title='טראמפ. אסור להיות תלויים בו בחימושים צבאיים ובמתן חנינה | צילום: אי-אף-פי, MANDEL NGAN' border='0' width='100' height='56'></a></div>מול הפשיעה בחברה הערבית, ההתפרעויות במגזר החרדי, הלעומתיות של מערכת המשפט והמציאות ביו"ש ‑ מדינת ישראל צריכה לפעול כדי להבטיח את ריבונותה.  וכך גם מול מי שרוצה להפוך אותנו לכוכב ה-51 בדגל האמריקאי]]></description>
-    <twitter_summary><![CDATA[בחינת ריבונותה של מדינת ישראל
-<div><a href='https://www.ynet.co.il/news/article/yokra14684932'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/19/yk14685436/yk...
-👉 https://www.ynet.co.il/news/article/yokra14684932]]></twitter_summary>
-    <pubDate>Sat, 21 Feb 2026 15:16:13 +0200</pubDate>
-  </item>
-  <item>
-    <title>זה גם עלינו</title>
-    <link>https://www.ynet.co.il/news/article/yokra14686084</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14686084</guid>
-    <description><![CDATA[<div><a href='https://www.ynet.co.il/news/article/yokra14686084'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/22/HJxySN928ee/HJxySN928ee_0_0_667_376_0_medium.jpg' alt='תיעוד הרצח בחיפה' title='תיעוד הרצח בחיפה' border='0' width='100' height='56'></a></div>ממשלת ישראל צריכה לצאת למבצע חומת מגן מאסיבי בכל היישובים הערביים והבדואים בישראל. זה לא חייב לכלול ולו יריה אחת]]></description>
-    <twitter_summary><![CDATA[זה גם עלינו
-<div><a href='https://www.ynet.co.il/news/article/yokra14686084'><img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/22/HJxySN928ee/H...
-👉 https://www.ynet.co.il/news/article/yokra14686084]]></twitter_summary>
-    <pubDate>Sat, 21 Feb 2026 15:14:09 +0200</pubDate>
+    <title>השר לעידוד הפשיעה</title>
+    <link>https://www.ynet.co.il/news/article/yokra14688105</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14688105</guid>
+    <description><![CDATA[<img src="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/Sk11l6e4vw11l/Sk11l6e4vw11l_0_0_3000_1689_0_large.jpg" alt="השר לעידוד הפשיעה" style="max-width:100%;height:auto;" />
+
+<p>המלחמה בפשיעה החמורה והמאורגנת היא משימה שהפכה בשנים האחרונות למורכבת יותר ויותר. ארגוני הפשיעה התקדמו בעשור האחרון בשיטות הפעולה, בהתחמשות בנשק קטלני, ביכולת הכלכלית וביכולות הטכנולוגיות, כשבמקרה הטוב המשטרה עמדה במקום.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Opinions
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/yokra14688105" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[השר לעידוד הפשיעה
+המלחמה בפשיעה החמורה והמאורגנת היא משימה שהפכה בשנים האחרונות למורכבת יותר ויותר. ארגוני הפשיעה התקדמו בעשור האחרון בשיטות הפעולה, בהתחמשות בנשק קטלני, ביכולת הכלכלית וביכולות הטכנולוגיות, כש... (Ynet Opinions)
+👉 https://www.ynet.co.il/news/article/yokra14688105]]></twitter_summary>
+    <enclosure url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/Sk11l6e4vw11l/Sk11l6e4vw11l_0_0_3000_1689_0_large.jpg" type="image/jpeg" length="0" />
+    <media:content url="https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/Sk11l6e4vw11l/Sk11l6e4vw11l_0_0_3000_1689_0_large.jpg" type="image/jpeg" medium="image" />
+    <pubDate>Mon, 23 Feb 2026 00:04:00 +0200</pubDate>
+    <category>opinion</category>
   </item>
 </channel>
 </rss>
