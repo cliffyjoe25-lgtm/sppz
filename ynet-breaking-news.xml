@@ -1,127 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Ynet Breaking News</title>
   <link>https://spz.local/ynet-breaking-news.xml</link>
-  <description>Feed from Ynet Breaking News - with images and summaries</description>
-  <language>he</language>
-  <lastBuildDate>Sun, 22 Feb 2026 13:12:24 +0000</lastBuildDate>
-  <atom:link href="https://spz.local/ynet-breaking-news.xml" rel="self" type="application/rss+xml" />
-  <generator>SPZ Aggregator v2.0 (Per-Feed)</generator>
+  <description>Ynet Breaking News - SPZ Feed</description>
+  <lastBuildDate>Sun, 22 Feb 2026 13:38:16 +0000</lastBuildDate>
+  <item>
+    <title>תינוקת כבת 5 חודשים נפטרה במעון פרטי בירושלים</title>
+    <link>https://www.ynet.co.il/news/article/rk0rgydubg</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/rk0rgydubg</guid>
+    <description><![CDATA[תינוקת כבת 5 חודשים נפטרה במעון פרטי בירושלים]]></description>
+    <twitter_summary><![CDATA[תינוקת כבת 5 חודשים נפטרה במעון פרטי בירושלים
+תינוקת כבת 5 חודשים נפטרה במעון פרטי בירושלים...
+👉 https://www.ynet.co.il/news/article/rk0rgydubg]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 15:14:03 +0200</pubDate>
+  </item>
+  <item>
+    <title>הספר &quot;Hostage&quot; של שורד השבי אלי שרעבי זכה בתואר &quot;ספר השנה היהודי&quot; בארה&quot;ב</title>
+    <link>https://www.ynet.co.il/news/article/r1izxtudwx</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/r1izxtudwx</guid>
+    <description><![CDATA[הספר "Hostage" של שורד השבי אלי שרעבי זכה בתואר "ספר השנה היהודי" בארה"ב]]></description>
+    <twitter_summary><![CDATA[הספר "Hostage" של שורד השבי אלי שרעבי זכה בתואר "ספר השנה היהודי" בארה"ב
+הספר "Hostage" של שורד השבי אלי שרעבי זכה בתואר "ספר השנה היהודי" בארה"ב...
+👉 https://www.ynet.co.il/news/article/r1izxtudwx]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 15:11:52 +0200</pubDate>
+  </item>
   <item>
     <title>הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר</title>
     <link>https://www.ynet.co.il/news/article/sjwmnuduwl</link>
     <guid isPermaLink="true">https://www.ynet.co.il/news/article/sjwmnuduwl</guid>
-    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר" style="max-width:100%;height:auto;" />
-
-<p>הממשלה אישרה את הצו של שר האוצר בצלאל סמוטריץ&amp;#x27;, לפיו הפטור ממס יהיה תקף על ייבוא אישי עד 150 דולר.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> Ynet Breaking News
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.ynet.co.il/news/article/sjwmnuduwl" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
+    <description><![CDATA[הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר]]></description>
     <twitter_summary><![CDATA[הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר
-הממשלה אישרה את הצו של שר האוצר בצלאל סמוטריץ&#x27;, לפיו הפטור ממס יהיה תקף על ייבוא אישי עד 150 דולר. (Ynet Breaking News)
+הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר...
 👉 https://www.ynet.co.il/news/article/sjwmnuduwl]]></twitter_summary>
-    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
-    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
     <pubDate>Sun, 22 Feb 2026 14:21:17 +0200</pubDate>
-    <category>news</category>
   </item>
   <item>
     <title>פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה</title>
     <link>https://www.ynet.co.il/news/article/h1oc7duo11e</link>
     <guid isPermaLink="true">https://www.ynet.co.il/news/article/h1oc7duo11e</guid>
-    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה" style="max-width:100%;height:auto;" />
-
-<p>פועל כבן 25 נפצע באורח קשה לאחר שנפל מגובה באתר בנייה בשדרות הסנהדרין ביבנה. צוות מד&quot;א פינה אותו לבית החולים קפלן.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> Ynet Breaking News
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.ynet.co.il/news/article/h1oc7duo11e" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
+    <description><![CDATA[פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה]]></description>
     <twitter_summary><![CDATA[פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה
-פועל כבן 25 נפצע באורח קשה לאחר שנפל מגובה באתר בנייה בשדרות הסנהדרין ביבנה. צוות מד"א פינה אותו לבית החולים קפלן. (Ynet Breaking News)
+פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה...
 👉 https://www.ynet.co.il/news/article/h1oc7duo11e]]></twitter_summary>
-    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
-    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
     <pubDate>Sun, 22 Feb 2026 14:17:09 +0200</pubDate>
-    <category>news</category>
   </item>
   <item>
     <title>רוביו צפוי להגיע לישראל במוצ&quot;ש, ולהיפגש עם נתניהו</title>
     <link>https://www.ynet.co.il/news/article/byejrwuowg</link>
     <guid isPermaLink="true">https://www.ynet.co.il/news/article/byejrwuowg</guid>
-    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="רוביו צפוי להגיע לישראל במוצ&quot;ש, ולהיפגש עם נתניהו" style="max-width:100%;height:auto;" />
-
-<p>מזכיר המדינה של ארה&quot;ב מרקו רוביו צפוי להגיע לישראל במוצאי שבת, ולהיפגש עם ראש הממשלה בנימין נתניהו.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> Ynet Breaking News
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.ynet.co.il/news/article/byejrwuowg" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
+    <description><![CDATA[רוביו צפוי להגיע לישראל במוצ"ש, ולהיפגש עם נתניהו]]></description>
     <twitter_summary><![CDATA[רוביו צפוי להגיע לישראל במוצ"ש, ולהיפגש עם נתניהו
-מזכיר המדינה של ארה"ב מרקו רוביו צפוי להגיע לישראל במוצאי שבת, ולהיפגש עם ראש הממשלה בנימין נתניהו. (Ynet Breaking News)
+רוביו צפוי להגיע לישראל במוצ"ש, ולהיפגש עם נתניהו...
 👉 https://www.ynet.co.il/news/article/byejrwuowg]]></twitter_summary>
-    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
-    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
     <pubDate>Sun, 22 Feb 2026 13:57:09 +0200</pubDate>
-    <category>news</category>
   </item>
   <item>
     <title>השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה</title>
     <link>https://www.ynet.co.il/news/article/hkf1nv00d11x</link>
     <guid isPermaLink="true">https://www.ynet.co.il/news/article/hkf1nv00d11x</guid>
-    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה" style="max-width:100%;height:auto;" />
-
-<p>השרים קיבלו הודעה כי נושא הרוגלות לא יעלה בישיבת הממשלה היום. זאת לאחר שכניסתו של ראש אח&quot;מ בועז בלט לדיון נאסרה על-ידי השר לביטחון לאומי איתמר בן גביר, והיועמ&quot;שית, פרקליט המדינה והמפכ&quot;ל החליטו לא להגיע לדיון.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> Ynet Breaking News
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.ynet.co.il/news/article/hkf1nv00d11x" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
+    <description><![CDATA[השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה]]></description>
     <twitter_summary><![CDATA[השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה
-השרים קיבלו הודעה כי נושא הרוגלות לא יעלה בישיבת הממשלה היום. (Ynet Breaking News)
+השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה...
 👉 https://www.ynet.co.il/news/article/hkf1nv00d11x]]></twitter_summary>
-    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
-    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
     <pubDate>Sun, 22 Feb 2026 13:45:10 +0200</pubDate>
-    <category>news</category>
   </item>
   <item>
     <title>רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה</title>
     <link>https://www.ynet.co.il/news/article/by4adpu00wx</link>
     <guid isPermaLink="true">https://www.ynet.co.il/news/article/by4adpu00wx</guid>
-    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה" style="max-width:100%;height:auto;" />
-
-<p>רוכב קלנועית כבן 67 נפצע באורח קשה מפגיעת רכב ברחוב תל חי בקריית שמונה. צוות מד&quot;א פינה אותו במסוק לבית החולים רמב&quot;ם בחיפה.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> Ynet Breaking News
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.ynet.co.il/news/article/by4adpu00wx" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
+    <description><![CDATA[רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה]]></description>
     <twitter_summary><![CDATA[רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה
-רוכב קלנועית כבן 67 נפצע באורח קשה מפגיעת רכב ברחוב תל חי בקריית שמונה. צוות מד"א פינה אותו במסוק לבית החולים רמב"ם בחיפה. (Ynet Breaking News)
+רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה...
 👉 https://www.ynet.co.il/news/article/by4adpu00wx]]></twitter_summary>
-    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
-    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
     <pubDate>Sun, 22 Feb 2026 13:26:57 +0200</pubDate>
-    <category>news</category>
+  </item>
+  <item>
+    <title>נתניהו: בנט וגנץ החזירו את התשלומים מקטאר לעזה - והכפילו אותם</title>
+    <link>https://www.ynet.co.il/news/article/sjiz8podbg</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/sjiz8podbg</guid>
+    <description><![CDATA[נתניהו: בנט וגנץ החזירו את התשלומים מקטאר לעזה - והכפילו אותם]]></description>
+    <twitter_summary><![CDATA[נתניהו: בנט וגנץ החזירו את התשלומים מקטאר לעזה - והכפילו אותם
+נתניהו: בנט וגנץ החזירו את התשלומים מקטאר לעזה - והכפילו אותם...
+👉 https://www.ynet.co.il/news/article/sjiz8podbg]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 13:20:55 +0200</pubDate>
+  </item>
+  <item>
+    <title>אישום: נערים מאשדוד תקפו גבר שהכירו באפליקציית היכרויות - ושדדו באיומי סכין </title>
+    <link>https://www.ynet.co.il/news/article/hka9zwouzg</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/hka9zwouzg</guid>
+    <description><![CDATA[אישום: נערים מאשדוד תקפו גבר שהכירו באפליקציית היכרויות - ושדדו באיומי סכין ]]></description>
+    <twitter_summary><![CDATA[אישום: נערים מאשדוד תקפו גבר שהכירו באפליקציית היכרויות - ושדדו באיומי סכין 
+אישום: נערים מאשדוד תקפו גבר שהכירו באפליקציית היכרויות - ושדדו באיומי סכין ...
+👉 https://www.ynet.co.il/news/article/hka9zwouzg]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 13:03:30 +0200</pubDate>
+  </item>
+  <item>
+    <title>רוטמן: &quot;בהרב-מיארה מחפה על עבירות פליליות חמורות&quot;</title>
+    <link>https://www.ynet.co.il/news/article/s1uszv0000be</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/s1uszv0000be</guid>
+    <description><![CDATA[רוטמן: "בהרב-מיארה מחפה על עבירות פליליות חמורות"]]></description>
+    <twitter_summary><![CDATA[רוטמן: "בהרב-מיארה מחפה על עבירות פליליות חמורות"
+רוטמן: "בהרב-מיארה מחפה על עבירות פליליות חמורות"...
+👉 https://www.ynet.co.il/news/article/s1uszv0000be]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 12:58:54 +0200</pubDate>
   </item>
 </channel>
 </rss>
