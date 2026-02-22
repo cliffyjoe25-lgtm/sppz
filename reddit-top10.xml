@@ -1,328 +1,322 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>SPZ Reddit - Top 10</title>
+  <title>SPZ Reddit - Top 10 (S-Tier)</title>
   <link>https://spz.local/reddit-top10.xml</link>
-  <description>{desc}</description>
+  <description>Highest ranked posts (S &amp; A tier)</description>
   <language>en</language>
-  <lastBuildDate>Sun, 22 Feb 2026 13:41:43 +0000</lastBuildDate>
-  <atom:link href="https://spz.local/reddit-all.xml" rel="self" type="application/rss+xml" />
-  <generator>SPZ Reddit Aggregator v1.0 (Unified Feed)</generator>
-  <category>Reddit</category>
-  <category>Social Media</category>
-  <category>Israel</category>
-  <category>Middle East</category>
+  <lastBuildDate>Sun, 22 Feb 2026 13:45:01 +0000</lastBuildDate>
+  <atom:link href="https://spz.local/reddit-top10.xml" rel="self" type="application/rss+xml" />
+  <generator>SPZ Reddit Aggregator v2.0 (Dual Scoring)</generator>
+  <item>
+    <title>Greenland does not need US hospital boat sent by Trump, says Denmark</title>
+    <link>https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/</link>
+    <guid isPermaLink="true">https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/</guid>
+    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
+🔺 <strong>3676</strong> upvotes | 💬 <strong>278</strong> comments
+| 📊 98% upvoted | ⭐ <strong>דירוג: S</strong> (83.0/100)
+</div>
+<hr />
+📡 <strong>Subreddit:</strong> r/worldnews
+👤 <strong>Author:</strong> u/SelcouthConcerts
+🔗 <strong>Domain:</strong> theguardian.com
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+<a href="https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+<br/><a href="https://www.theguardian.com/world/2026/feb/22/greenland-does-not-need-us-hospital-boat-sent-by-trump-says-denmark" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[Greenland does not need US hospital boat sent by Trump, says Denmark
+ (r/worldnews | 3676🔺 278💬)
+👉 https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/]]></twitter_summary>
+    <reddit:score>3676</reddit:score>
+    <reddit:comments>278</reddit:comments>
+    <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
+    <reddit:subreddit>r/worldnews</reddit:subreddit>
+    <reddit:author>u/SelcouthConcerts</reddit:author>
+    <dual_score>83.0</dual_score>
+    <tier>S</tier>
+    <relevancy_score>8</relevancy_score>
+    <category>news</category>
+    <priority>high</priority>
+    <pubDate>Sun, 22 Feb 2026 13:44:52 +0000</pubDate>
+  </item>
   <item>
     <title>Student Who Punched Another Student Holding Pro-ICE Sign At Lake Zurich High School Received 2-day Suspension</title>
     <link>https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/</link>
     <guid isPermaLink="true">https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/</guid>
     <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>14157</strong> upvotes | 💬 <strong>1268</strong> comments | 📊 94% upvoted
+🔺 <strong>15247</strong> upvotes | 💬 <strong>1349</strong> comments
+| 📊 94% upvoted | ⭐ <strong>דירוג: S</strong> (81.3/100)
 </div>
 <hr />
-
 📡 <strong>Subreddit:</strong> r/news
 👤 <strong>Author:</strong> u/gur40goku
 🔗 <strong>Domain:</strong> lakemchenryscanner.com
-⭐ <strong>רלוונטיות:</strong> 10/10
-
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://www.lakemchenryscanner.com/2026/02/20/student-who-punched-another-student-holding-pro-ice-sign-at-lake-zurich-high-school-received-2-day-suspension/" target="_blank"><strong>קישור חיצוני ←</strong></a>
+<a href="https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+<br/><a href="https://www.lakemchenryscanner.com/2026/02/20/student-who-punched-another-student-holding-pro-ice-sign-at-lake-zurich-high-school-received-2-day-suspension/" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
 </div>]]></description>
     <twitter_summary><![CDATA[Student Who Punched Another Student Holding Pro-ICE Sign At Lake Zurich High School Received 2-day Suspension
- (r/news | 14157🔺 1268💬)
+ (r/news | 15247🔺 1349💬)
 👉 https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/]]></twitter_summary>
-    <reddit:score>14157</reddit:score>
-    <reddit:comments>1268</reddit:comments>
+    <reddit:score>15247</reddit:score>
+    <reddit:comments>1349</reddit:comments>
     <reddit:upvote_ratio>0.94</reddit:upvote_ratio>
     <reddit:subreddit>r/news</reddit:subreddit>
     <reddit:author>u/gur40goku</reddit:author>
-    <relevancy_score>10</relevancy_score>
+    <dual_score>81.3</dual_score>
+    <tier>S</tier>
+    <relevancy_score>8</relevancy_score>
     <category>news</category>
     <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:22:36 +0000</pubDate>
+    <pubDate>Sun, 22 Feb 2026 13:44:59 +0000</pubDate>
   </item>
-<item>
-    <title>Greenland does not need US hospital boat sent by Trump, says Denmark</title>
-    <link>https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/</link>
-    <guid isPermaLink="true">https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/</guid>
+  <item>
+    <title>To surveil Americans</title>
+    <link>https://reddit.com/r/therewasanattempt/comments/1rb2ebp/to_surveil_americans/</link>
+    <guid isPermaLink="true">https://reddit.com/r/therewasanattempt/comments/1rb2ebp/to_surveil_americans/</guid>
     <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>2880</strong> upvotes | 💬 <strong>238</strong> comments | 📊 97% upvoted
+🔺 <strong>11233</strong> upvotes | 💬 <strong>267</strong> comments
+| 📊 98% upvoted | ⭐ <strong>דירוג: A</strong> (71.8/100)
 </div>
 <hr />
-
-📡 <strong>Subreddit:</strong> r/worldnews
-👤 <strong>Author:</strong> u/SelcouthConcerts
-🔗 <strong>Domain:</strong> theguardian.com
-⭐ <strong>רלוונטיות:</strong> 10/10
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://www.theguardian.com/world/2026/feb/22/greenland-does-not-need-us-hospital-boat-sent-by-trump-says-denmark" target="_blank"><strong>קישור חיצוני ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Greenland does not need US hospital boat sent by Trump, says Denmark
- (r/worldnews | 2880🔺 238💬)
-👉 https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/]]></twitter_summary>
-    <reddit:score>2880</reddit:score>
-    <reddit:comments>238</reddit:comments>
-    <reddit:upvote_ratio>0.97</reddit:upvote_ratio>
-    <reddit:subreddit>r/worldnews</reddit:subreddit>
-    <reddit:author>u/SelcouthConcerts</reddit:author>
-    <relevancy_score>10</relevancy_score>
-    <category>news</category>
-    <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:22:28 +0000</pubDate>
-  </item>
-<item>
-    <title>to claim he isn&apos;t charging $5k for front row seats</title>
-    <link>https://reddit.com/r/therewasanattempt/comments/1rbdy9j/to_claim_he_isnt_charging_5k_for_front_row_seats/</link>
-    <guid isPermaLink="true">https://reddit.com/r/therewasanattempt/comments/1rbdy9j/to_claim_he_isnt_charging_5k_for_front_row_seats/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>1810</strong> upvotes | 💬 <strong>80</strong> comments | 📊 97% upvoted
-</div>
-<hr />
-
 📡 <strong>Subreddit:</strong> r/therewasanattempt
-👤 <strong>Author:</strong> u/seeebiscuit
+👤 <strong>Author:</strong> u/ShiningRedDwarf
 🔗 <strong>Domain:</strong> i.redd.it
-⭐ <strong>רלוונטיות:</strong> 10/10
-
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/therewasanattempt/comments/1rbdy9j/to_claim_he_isnt_charging_5k_for_front_row_seats/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://i.redd.it/9hi6q6s0kzkg1.jpeg" target="_blank"><strong>קישור חיצוני ←</strong></a>
+<a href="https://reddit.com/r/therewasanattempt/comments/1rb2ebp/to_surveil_americans/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+<br/><a href="https://i.redd.it/p2r0kioiwwkg1.jpeg" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[to claim he isn't charging $5k for front row seats
- (r/therewasanattempt | 1810🔺 80💬)
-👉 https://reddit.com/r/therewasanattempt/comments/1rbdy9j/to_claim_he_isnt_charging_5k_for_front_row_seats/]]></twitter_summary>
-    <reddit:score>1810</reddit:score>
-    <reddit:comments>80</reddit:comments>
-    <reddit:upvote_ratio>0.97</reddit:upvote_ratio>
+    <twitter_summary><![CDATA[To surveil Americans
+ (r/therewasanattempt | 11233🔺 267💬)
+👉 https://reddit.com/r/therewasanattempt/comments/1rb2ebp/to_surveil_americans/]]></twitter_summary>
+    <reddit:score>11233</reddit:score>
+    <reddit:comments>267</reddit:comments>
+    <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
     <reddit:subreddit>r/therewasanattempt</reddit:subreddit>
-    <reddit:author>u/seeebiscuit</reddit:author>
-    <relevancy_score>10</relevancy_score>
+    <reddit:author>u/ShiningRedDwarf</reddit:author>
+    <dual_score>71.8</dual_score>
+    <tier>A</tier>
+    <relevancy_score>7</relevancy_score>
     <category>viral</category>
     <priority>low</priority>
-    <pubDate>Sun, 22 Feb 2026 13:22:32 +0000</pubDate>
+    <pubDate>Sun, 22 Feb 2026 13:44:55 +0000</pubDate>
   </item>
-<item>
+  <item>
+    <title>Why is there still support for Hamas? a realistic view from someone tired of slogans</title>
+    <link>https://reddit.com/r/IsraelPalestine/comments/1ra4u9b/why_is_there_still_support_for_hamas_a_realistic/</link>
+    <guid isPermaLink="true">https://reddit.com/r/IsraelPalestine/comments/1ra4u9b/why_is_there_still_support_for_hamas_a_realistic/</guid>
+    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
+🔺 <strong>52</strong> upvotes | 💬 <strong>273</strong> comments
+| 📊 81% upvoted | ⭐ <strong>דירוג: A</strong> (65.6/100)
+</div>
+<p>Hi guys I will be honest I changed my mind about Hamas. Maybe I am a bit late, but the reality is now impossible to ignore. I want to share a frustrating experience I had in another sub I joined a discussion there, but my comments were deleted. When I asked the moderators why, they told me I was **&apos;promoting the Zionist narrative.&apos;** But i just wrote &apos;Hamas is part of the problem. Why didn’t they build even one shelter for civilians before starting this? What did they expect would happen?&apos; I was looking for a rational and strategic discussion, but I realized this is impossible with people who follow emotions instead of logic One specific reply disgusted me **&apos;At least the Zionists are exposed now everyone knows the truth.&apos;** This is a very cruel opinion. It always hurts me to see children ...</p>
+<hr />
+📡 <strong>Subreddit:</strong> r/IsraelPalestine
+👤 <strong>Author:</strong> u/Gullible_Sock_1019
+🔗 <strong>Domain:</strong> self.IsraelPalestine
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+<a href="https://reddit.com/r/IsraelPalestine/comments/1ra4u9b/why_is_there_still_support_for_hamas_a_realistic/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[Why is there still support for Hamas? a realistic view from someone tired of slogans
+ (r/IsraelPalestine | 52🔺 273💬)
+👉 https://reddit.com/r/IsraelPalestine/comments/1ra4u9b/why_is_there_still_support_for_hamas_a_realistic/]]></twitter_summary>
+    <reddit:score>52</reddit:score>
+    <reddit:comments>273</reddit:comments>
+    <reddit:upvote_ratio>0.81</reddit:upvote_ratio>
+    <reddit:subreddit>r/IsraelPalestine</reddit:subreddit>
+    <reddit:author>u/Gullible_Sock_1019</reddit:author>
+    <dual_score>65.6</dual_score>
+    <tier>A</tier>
+    <relevancy_score>6</relevancy_score>
+    <category>debate</category>
+    <priority>high</priority>
+    <pubDate>Sun, 22 Feb 2026 13:44:27 +0000</pubDate>
+  </item>
+  <item>
     <title>A Ukrainian &quot;Hart brigade&quot; drone unit is attacking a warehouse Russian soldiers used to hide equipment in it. The first pilot uses his fiber optic quad to blow a hole into the building for the other units to attack the vehicles and burn down the structure. Kharkiv Oblast.</title>
     <link>https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/</link>
     <guid isPermaLink="true">https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/</guid>
     <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>1755</strong> upvotes | 💬 <strong>38</strong> comments | 📊 98% upvoted
+🔺 <strong>1769</strong> upvotes | 💬 <strong>38</strong> comments
+| 📊 98% upvoted | ⭐ <strong>דירוג: B</strong> (63.1/100)
 </div>
 <hr />
-
 📡 <strong>Subreddit:</strong> r/CombatFootage
 👤 <strong>Author:</strong> u/MilesLongthe3rd
 🔗 <strong>Domain:</strong> v.redd.it
-⭐ <strong>רלוונטיות:</strong> 10/10
-
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://v.redd.it/step5ei5dukg1" target="_blank"><strong>קישור חיצוני ←</strong></a>
+<a href="https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+<br/><a href="https://v.redd.it/step5ei5dukg1" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
 </div>]]></description>
     <twitter_summary><![CDATA[A Ukrainian "Hart brigade" drone unit is attacking a warehouse Russian soldiers used to hide equipment in it. The first pilot uses his fiber optic quad to blow a hole into the building for the other units to attack the vehicles and burn down the structure. Kharkiv Oblast.
-... (r/CombatFootage | 1755🔺 38💬)
-👉 https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/]]></twitter_summary>
-    <reddit:score>1755</reddit:score>
+ (r/...]]></twitter_summary>
+    <reddit:score>1769</reddit:score>
     <reddit:comments>38</reddit:comments>
     <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
     <reddit:subreddit>r/CombatFootage</reddit:subreddit>
     <reddit:author>u/MilesLongthe3rd</reddit:author>
-    <relevancy_score>10</relevancy_score>
+    <dual_score>63.1</dual_score>
+    <tier>B</tier>
+    <relevancy_score>6</relevancy_score>
     <category>military</category>
     <priority>medium</priority>
-    <pubDate>Sun, 22 Feb 2026 13:21:59 +0000</pubDate>
+    <pubDate>Sun, 22 Feb 2026 13:44:23 +0000</pubDate>
   </item>
-<item>
-    <title>Grown man throwing tantrum and almost getting violent with fast food worker</title>
-    <link>https://reddit.com/r/PublicFreakout/comments/1rb7zpn/grown_man_throwing_tantrum_and_almost_getting/</link>
-    <guid isPermaLink="true">https://reddit.com/r/PublicFreakout/comments/1rb7zpn/grown_man_throwing_tantrum_and_almost_getting/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>1434</strong> upvotes | 💬 <strong>156</strong> comments | 📊 97% upvoted
-</div>
-<hr />
-
-📡 <strong>Subreddit:</strong> r/PublicFreakout
-👤 <strong>Author:</strong> u/illbegood5
-🔗 <strong>Domain:</strong> v.redd.it
-⭐ <strong>רלוונטיות:</strong> 10/10
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/PublicFreakout/comments/1rb7zpn/grown_man_throwing_tantrum_and_almost_getting/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://v.redd.it/0lvbqv223ykg1" target="_blank"><strong>קישור חיצוני ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Grown man throwing tantrum and almost getting violent with fast food worker
- (r/PublicFreakout | 1434🔺 156💬)
-👉 https://reddit.com/r/PublicFreakout/comments/1rb7zpn/grown_man_throwing_tantrum_and_almost_getting/]]></twitter_summary>
-    <reddit:score>1434</reddit:score>
-    <reddit:comments>156</reddit:comments>
-    <reddit:upvote_ratio>0.97</reddit:upvote_ratio>
-    <reddit:subreddit>r/PublicFreakout</reddit:subreddit>
-    <reddit:author>u/illbegood5</reddit:author>
-    <relevancy_score>10</relevancy_score>
-    <category>viral</category>
-    <priority>low</priority>
-    <pubDate>Sun, 22 Feb 2026 13:22:31 +0000</pubDate>
-  </item>
-<item>
+  <item>
     <title>Ukrainian FP-5 &quot;Flamingo&quot; cruise missiles fired towards the Votkinsk missile production plant in Votkinsk, Republic of Udmurtia, Russia. 20 February 2026</title>
     <link>https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles_fired/</link>
     <guid isPermaLink="true">https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles_fired/</guid>
     <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>1300</strong> upvotes | 💬 <strong>22</strong> comments | 📊 98% upvoted
+🔺 <strong>1311</strong> upvotes | 💬 <strong>22</strong> comments
+| 📊 98% upvoted | ⭐ <strong>דירוג: B</strong> (59.4/100)
 </div>
 <hr />
-
 📡 <strong>Subreddit:</strong> r/CombatFootage
 👤 <strong>Author:</strong> u/jisooya1432
 🔗 <strong>Domain:</strong> v.redd.it
-⭐ <strong>רלוונטיות:</strong> 10/10
-
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles_fired/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://v.redd.it/ee54c6vnwpkg1" target="_blank"><strong>קישור חיצוני ←</strong></a>
+<a href="https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles_fired/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+<br/><a href="https://v.redd.it/ee54c6vnwpkg1" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
 </div>]]></description>
     <twitter_summary><![CDATA[Ukrainian FP-5 "Flamingo" cruise missiles fired towards the Votkinsk missile production plant in Votkinsk, Republic of Udmurtia, Russia. 20 February 2026
-... (r/CombatFootage | 1300🔺 22💬)
-👉 https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles_fired/]]></twitter_summary>
-    <reddit:score>1300</reddit:score>
+ (r/CombatFootage | 1311🔺 22💬)
+👉 https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles...]]></twitter_summary>
+    <reddit:score>1311</reddit:score>
     <reddit:comments>22</reddit:comments>
     <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
     <reddit:subreddit>r/CombatFootage</reddit:subreddit>
     <reddit:author>u/jisooya1432</reddit:author>
-    <relevancy_score>10</relevancy_score>
+    <dual_score>59.4</dual_score>
+    <tier>B</tier>
+    <relevancy_score>5</relevancy_score>
     <category>military</category>
     <priority>medium</priority>
-    <pubDate>Sun, 22 Feb 2026 13:21:59 +0000</pubDate>
+    <pubDate>Sun, 22 Feb 2026 13:44:23 +0000</pubDate>
   </item>
-<item>
-    <title>The Islamic republic places the Israeli flag in conspicuous locations (like the metro) so that it is trampled on... Iranians find other uses for it 😂</title>
-    <link>https://reddit.com/r/Israel/comments/1rb53ha/the_islamic_republic_places_the_israeli_flag_in/</link>
-    <guid isPermaLink="true">https://reddit.com/r/Israel/comments/1rb53ha/the_islamic_republic_places_the_israeli_flag_in/</guid>
+  <item>
+    <title>Active Conflicts &amp;amp; News Megathread February 19, 2026</title>
+    <link>https://reddit.com/r/CredibleDefense/comments/1r8vsx6/active_conflicts_news_megathread_february_19_2026/</link>
+    <guid isPermaLink="true">https://reddit.com/r/CredibleDefense/comments/1r8vsx6/active_conflicts_news_megathread_february_19_2026/</guid>
     <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>982</strong> upvotes | 💬 <strong>59</strong> comments | 📊 95% upvoted
+🔺 <strong>38</strong> upvotes | 💬 <strong>127</strong> comments
+| 📊 94% upvoted | ⭐ <strong>דירוג: B</strong> (57.6/100)
 </div>
+<p>The r/CredibleDefense daily megathread is for asking questions and posting submissions that would not fit the criteria of our post submissions. As such, submissions are less stringently moderated, but we still do keep an elevated guideline for comments. Comment guidelines: Please do: \* Be curious not judgmental, polite and civil, \* Link to the article or source of information that you are referring to, \* Clearly separate your opinion from what the source says. Minimize editorializing. Do \_not\_ cherry pick facts to support a preferred narrative, \* Read the articles before you comment, and comment on the content of the articles, \* Post only credible information \* Read our in depth rules [https://reddit.com/r/CredibleDefense/wiki/rules](https://reddit.com/r/CredibleDefense/wiki/rules)...</p>
 <hr />
-
-📡 <strong>Subreddit:</strong> r/Israel
-👤 <strong>Author:</strong> u/Front-Cancel5705
-🔗 <strong>Domain:</strong> v.redd.it
-⭐ <strong>רלוונטיות:</strong> 10/10
-
+📡 <strong>Subreddit:</strong> r/CredibleDefense
+👤 <strong>Author:</strong> u/AutoModerator
+🔗 <strong>Domain:</strong> self.CredibleDefense
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/Israel/comments/1rb53ha/the_islamic_republic_places_the_israeli_flag_in/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://v.redd.it/1t9gbzdggxkg1" target="_blank"><strong>קישור חיצוני ←</strong></a>
+<a href="https://reddit.com/r/CredibleDefense/comments/1r8vsx6/active_conflicts_news_megathread_february_19_2026/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[The Islamic republic places the Israeli flag in conspicuous locations (like the metro) so that it is trampled on... Iranians find other uses for it 😂
- (r/Israel | 982🔺 59💬)
-👉 https://reddit.com/r/Israel/comments/1rb53ha/the_islamic_republic_places_the_israeli_flag_in/]]></twitter_summary>
-    <reddit:score>982</reddit:score>
-    <reddit:comments>59</reddit:comments>
+    <twitter_summary><![CDATA[Active Conflicts &amp; News Megathread February 19, 2026
+ (r/CredibleDefense | 38🔺 127💬)
+👉 https://reddit.com/r/CredibleDefense/comments/1r8vsx6/active_conflicts_news_megathread_february_19_2026/]]></twitter_summary>
+    <reddit:score>38</reddit:score>
+    <reddit:comments>127</reddit:comments>
+    <reddit:upvote_ratio>0.94</reddit:upvote_ratio>
+    <reddit:subreddit>r/CredibleDefense</reddit:subreddit>
+    <reddit:author>u/AutoModerator</reddit:author>
+    <dual_score>57.6</dual_score>
+    <tier>B</tier>
+    <relevancy_score>5</relevancy_score>
+    <category>military</category>
+    <priority>high</priority>
+    <pubDate>Sun, 22 Feb 2026 13:44:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>Active Conflicts &amp;amp; News Megathread February 20, 2026</title>
+    <link>https://reddit.com/r/CredibleDefense/comments/1r9rwe8/active_conflicts_news_megathread_february_20_2026/</link>
+    <guid isPermaLink="true">https://reddit.com/r/CredibleDefense/comments/1r9rwe8/active_conflicts_news_megathread_february_20_2026/</guid>
+    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
+🔺 <strong>33</strong> upvotes | 💬 <strong>85</strong> comments
+| 📊 95% upvoted | ⭐ <strong>דירוג: B</strong> (55.2/100)
+</div>
+<p>The r/CredibleDefense daily megathread is for asking questions and posting submissions that would not fit the criteria of our post submissions. As such, submissions are less stringently moderated, but we still do keep an elevated guideline for comments. Comment guidelines: Please do: \* Be curious not judgmental, polite and civil, \* Link to the article or source of information that you are referring to, \* Clearly separate your opinion from what the source says. Minimize editorializing. Do \_not\_ cherry pick facts to support a preferred narrative, \* Read the articles before you comment, and comment on the content of the articles, \* Post only credible information \* Read our in depth rules [https://reddit.com/r/CredibleDefense/wiki/rules](https://reddit.com/r/CredibleDefense/wiki/rules)...</p>
+<hr />
+📡 <strong>Subreddit:</strong> r/CredibleDefense
+👤 <strong>Author:</strong> u/AutoModerator
+🔗 <strong>Domain:</strong> self.CredibleDefense
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+<a href="https://reddit.com/r/CredibleDefense/comments/1r9rwe8/active_conflicts_news_megathread_february_20_2026/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[Active Conflicts &amp; News Megathread February 20, 2026
+ (r/CredibleDefense | 33🔺 85💬)
+👉 https://reddit.com/r/CredibleDefense/comments/1r9rwe8/active_conflicts_news_megathread_february_20_2026/]]></twitter_summary>
+    <reddit:score>33</reddit:score>
+    <reddit:comments>85</reddit:comments>
     <reddit:upvote_ratio>0.95</reddit:upvote_ratio>
-    <reddit:subreddit>r/Israel</reddit:subreddit>
-    <reddit:author>u/Front-Cancel5705</reddit:author>
-    <relevancy_score>10</relevancy_score>
-    <category>news</category>
+    <reddit:subreddit>r/CredibleDefense</reddit:subreddit>
+    <reddit:author>u/AutoModerator</reddit:author>
+    <dual_score>55.2</dual_score>
+    <tier>B</tier>
+    <relevancy_score>5</relevancy_score>
+    <category>military</category>
     <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:21:45 +0000</pubDate>
+    <pubDate>Sun, 22 Feb 2026 13:44:38 +0000</pubDate>
   </item>
-<item>
-    <title>To see a Lady Gaga show</title>
-    <link>https://reddit.com/r/therewasanattempt/comments/1rbd6qo/to_see_a_lady_gaga_show/</link>
-    <guid isPermaLink="true">https://reddit.com/r/therewasanattempt/comments/1rbd6qo/to_see_a_lady_gaga_show/</guid>
+  <item>
+    <title>Active Conflicts &amp;amp; News Megathread February 21, 2026</title>
+    <link>https://reddit.com/r/CredibleDefense/comments/1ranxf3/active_conflicts_news_megathread_february_21_2026/</link>
+    <guid isPermaLink="true">https://reddit.com/r/CredibleDefense/comments/1ranxf3/active_conflicts_news_megathread_february_21_2026/</guid>
     <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>943</strong> upvotes | 💬 <strong>83</strong> comments | 📊 96% upvoted
+🔺 <strong>33</strong> upvotes | 💬 <strong>70</strong> comments
+| 📊 97% upvoted | ⭐ <strong>דירוג: B</strong> (54.5/100)
 </div>
-<p>My friends weren&apos;t told the show was going to filmed until they walked into the KIA Forum. This was their view for way too much of the concert.</p>
-
+<p>The r/CredibleDefense daily megathread is for asking questions and posting submissions that would not fit the criteria of our post submissions. As such, submissions are less stringently moderated, but we still do keep an elevated guideline for comments. Comment guidelines: Please do: \* Be curious not judgmental, polite and civil, \* Link to the article or source of information that you are referring to, \* Clearly separate your opinion from what the source says. Minimize editorializing. Do \_not\_ cherry pick facts to support a preferred narrative, \* Read the articles before you comment, and comment on the content of the articles, \* Post only credible information \* Read our in depth rules [https://reddit.com/r/CredibleDefense/wiki/rules](https://reddit.com/r/CredibleDefense/wiki/rules)...</p>
 <hr />
-
-📡 <strong>Subreddit:</strong> r/therewasanattempt
-👤 <strong>Author:</strong> u/ourmanflint1
-🔗 <strong>Domain:</strong> v.redd.it
-⭐ <strong>רלוונטיות:</strong> 10/10
-
+📡 <strong>Subreddit:</strong> r/CredibleDefense
+👤 <strong>Author:</strong> u/AutoModerator
+🔗 <strong>Domain:</strong> self.CredibleDefense
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/therewasanattempt/comments/1rbd6qo/to_see_a_lady_gaga_show/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://v.redd.it/qpcesee3czkg1" target="_blank"><strong>קישור חיצוני ←</strong></a>
+<a href="https://reddit.com/r/CredibleDefense/comments/1ranxf3/active_conflicts_news_megathread_february_21_2026/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[To see a Lady Gaga show
-My friends weren't told the show was going to filmed until they walked into the KIA Forum. This was their view for way too much of the co... (r/therewasanattempt | 943🔺 83💬)
-👉 https://reddit.com/r/therewasanattempt/comments/1rbd6qo/to_see_a_lady_gaga_show/]]></twitter_summary>
-    <reddit:score>943</reddit:score>
-    <reddit:comments>83</reddit:comments>
-    <reddit:upvote_ratio>0.96</reddit:upvote_ratio>
-    <reddit:subreddit>r/therewasanattempt</reddit:subreddit>
-    <reddit:author>u/ourmanflint1</reddit:author>
-    <relevancy_score>10</relevancy_score>
-    <category>viral</category>
-    <priority>low</priority>
-    <pubDate>Sun, 22 Feb 2026 13:22:32 +0000</pubDate>
-  </item>
-<item>
-    <title>Israeli Olympic bobsled team disqualified for lying to officials</title>
-    <link>https://reddit.com/r/Palestine/comments/1rbez0z/israeli_olympic_bobsled_team_disqualified_for/</link>
-    <guid isPermaLink="true">https://reddit.com/r/Palestine/comments/1rbez0z/israeli_olympic_bobsled_team_disqualified_for/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>939</strong> upvotes | 💬 <strong>56</strong> comments | 📊 98% upvoted
-</div>
-<hr />
-
-📡 <strong>Subreddit:</strong> r/Palestine
-👤 <strong>Author:</strong> u/Spartalust
-🔗 <strong>Domain:</strong> i.redd.it
-⭐ <strong>רלוונטיות:</strong> 10/10
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/Palestine/comments/1rbez0z/israeli_olympic_bobsled_team_disqualified_for/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://i.redd.it/kkuxkzfcuzkg1.jpeg" target="_blank"><strong>קישור חיצוני ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Israeli Olympic bobsled team disqualified for lying to officials
- (r/Palestine | 939🔺 56💬)
-👉 https://reddit.com/r/Palestine/comments/1rbez0z/israeli_olympic_bobsled_team_disqualified_for/]]></twitter_summary>
-    <reddit:score>939</reddit:score>
-    <reddit:comments>56</reddit:comments>
-    <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
-    <reddit:subreddit>r/Palestine</reddit:subreddit>
-    <reddit:author>u/Spartalust</reddit:author>
-    <relevancy_score>10</relevancy_score>
-    <category>news</category>
-    <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:22:11 +0000</pubDate>
-  </item>
-<item>
-    <title>To Host CPAC in 2026</title>
-    <link>https://reddit.com/r/therewasanattempt/comments/1rbau5t/to_host_cpac_in_2026/</link>
-    <guid isPermaLink="true">https://reddit.com/r/therewasanattempt/comments/1rbau5t/to_host_cpac_in_2026/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>864</strong> upvotes | 💬 <strong>48</strong> comments | 📊 97% upvoted
-</div>
-<hr />
-
-📡 <strong>Subreddit:</strong> r/therewasanattempt
-👤 <strong>Author:</strong> u/serious_bullet5
-🔗 <strong>Domain:</strong> v.redd.it
-⭐ <strong>רלוונטיות:</strong> 10/10
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://reddit.com/r/therewasanattempt/comments/1rbau5t/to_host_cpac_in_2026/" target="_blank"><strong>צפה בפוסט ברדיט ←</strong></a>
-<br/>🌐 <a href="https://v.redd.it/ws4g27qwqykg1" target="_blank"><strong>קישור חיצוני ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[To Host CPAC in 2026
- (r/therewasanattempt | 864🔺 48💬)
-👉 https://reddit.com/r/therewasanattempt/comments/1rbau5t/to_host_cpac_in_2026/]]></twitter_summary>
-    <reddit:score>864</reddit:score>
-    <reddit:comments>48</reddit:comments>
+    <twitter_summary><![CDATA[Active Conflicts &amp; News Megathread February 21, 2026
+ (r/CredibleDefense | 33🔺 70💬)
+👉 https://reddit.com/r/CredibleDefense/comments/1ranxf3/active_conflicts_news_megathread_february_21_2026/]]></twitter_summary>
+    <reddit:score>33</reddit:score>
+    <reddit:comments>70</reddit:comments>
     <reddit:upvote_ratio>0.97</reddit:upvote_ratio>
-    <reddit:subreddit>r/therewasanattempt</reddit:subreddit>
-    <reddit:author>u/serious_bullet5</reddit:author>
-    <relevancy_score>10</relevancy_score>
-    <category>viral</category>
-    <priority>low</priority>
-    <pubDate>Sun, 22 Feb 2026 13:22:32 +0000</pubDate>
+    <reddit:subreddit>r/CredibleDefense</reddit:subreddit>
+    <reddit:author>u/AutoModerator</reddit:author>
+    <dual_score>54.5</dual_score>
+    <tier>B</tier>
+    <relevancy_score>5</relevancy_score>
+    <category>military</category>
+    <priority>high</priority>
+    <pubDate>Sun, 22 Feb 2026 13:44:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>Ukrainian soldiers cleared Russian positions under constant enemy drone attacks. Kostiantinivka direction, Chameleon unit, 93rd Mechanized Brigade. Published 20.02.2026</title>
+    <link>https://reddit.com/r/CombatFootage/comments/1rae4ww/ukrainian_soldiers_cleared_russian_positions/</link>
+    <guid isPermaLink="true">https://reddit.com/r/CombatFootage/comments/1rae4ww/ukrainian_soldiers_cleared_russian_positions/</guid>
+    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
+🔺 <strong>301</strong> upvotes | 💬 <strong>8</strong> comments
+| 📊 97% upvoted | ⭐ <strong>דירוג: B</strong> (53.9/100)
+</div>
+<p>Disclaimer: This video is for educational and informational purposes only. It is neither intended to glorify nor encourage violence. It simply documents the brutal reality of war and shows how military units edit and publish their footage. Viewer discretion advised! Remember Rule 1!</p>
+<hr />
+📡 <strong>Subreddit:</strong> r/CombatFootage
+👤 <strong>Author:</strong> u/GermanDronePilot
+🔗 <strong>Domain:</strong> v.redd.it
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+<a href="https://reddit.com/r/CombatFootage/comments/1rae4ww/ukrainian_soldiers_cleared_russian_positions/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+<br/><a href="https://v.redd.it/sjacr4945rkg1" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[Ukrainian soldiers cleared Russian positions under constant enemy drone attacks. Kostiantinivka direction, Chameleon unit, 93rd Mechanized Brigade. Published 20.02.2026
+ (r/CombatFootage | 301🔺 8💬)
+👉 https://reddit.com/r/CombatFootage/comments/1rae4ww/ukrainian_soldiers_cleare...]]></twitter_summary>
+    <reddit:score>301</reddit:score>
+    <reddit:comments>8</reddit:comments>
+    <reddit:upvote_ratio>0.97</reddit:upvote_ratio>
+    <reddit:subreddit>r/CombatFootage</reddit:subreddit>
+    <reddit:author>u/GermanDronePilot</reddit:author>
+    <dual_score>53.9</dual_score>
+    <tier>B</tier>
+    <relevancy_score>5</relevancy_score>
+    <category>military</category>
+    <priority>medium</priority>
+    <pubDate>Sun, 22 Feb 2026 13:44:23 +0000</pubDate>
   </item>
 </channel>
 </rss>
