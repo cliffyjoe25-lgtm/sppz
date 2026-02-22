@@ -1,109 +1,242 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Ynet Breaking News</title>
   <link>https://spz.local/ynet-breaking-news.xml</link>
-  <description>Ynet Breaking News - SPZ Feed</description>
-  <lastBuildDate>Sun, 22 Feb 2026 13:38:16 +0000</lastBuildDate>
+  <description>Feed from Ynet Breaking News - with images and summaries</description>
+  <language>he</language>
+  <lastBuildDate>Sun, 22 Feb 2026 15:11:01 +0000</lastBuildDate>
+  <atom:link href="https://spz.local/ynet-breaking-news.xml" rel="self" type="application/rss+xml" />
+  <generator>SPZ Aggregator v2.0 (Per-Feed)</generator>
   <item>
-    <title>תינוקת כבת 5 חודשים נפטרה במעון פרטי בירושלים</title>
-    <link>https://www.ynet.co.il/news/article/rk0rgydubg</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/rk0rgydubg</guid>
-    <description><![CDATA[תינוקת כבת 5 חודשים נפטרה במעון פרטי בירושלים]]></description>
-    <twitter_summary><![CDATA[תינוקת כבת 5 חודשים נפטרה במעון פרטי בירושלים
-תינוקת כבת 5 חודשים נפטרה במעון פרטי בירושלים...
-👉 https://www.ynet.co.il/news/article/rk0rgydubg]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 15:14:03 +0200</pubDate>
+    <title>גבר נפצע קשה בתאונה ברחוב בן יהודה בתל אביב</title>
+    <link>https://www.ynet.co.il/news/article/bjfty5dd11x</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/bjfty5dd11x</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="גבר נפצע קשה בתאונה ברחוב בן יהודה בתל אביב" style="max-width:100%;height:auto;" />
+
+<p>גבר כבן 50 נפצע באורח קשה ואדם נוסף באורח קל בתאונה ברחוב בן יהודה בתל אביב. צוות מד&quot;א פינו אותם לבית החולים איכילוב בעיר.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/bjfty5dd11x" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[גבר נפצע קשה בתאונה ברחוב בן יהודה בתל אביב
+גבר כבן 50 נפצע באורח קשה ואדם נוסף באורח קל בתאונה ברחוב בן יהודה בתל אביב. צוות מד"א פינו אותם לבית החולים איכילוב בעיר. (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/bjfty5dd11x]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 17:00:57 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>הספר &quot;Hostage&quot; של שורד השבי אלי שרעבי זכה בתואר &quot;ספר השנה היהודי&quot; בארה&quot;ב</title>
-    <link>https://www.ynet.co.il/news/article/r1izxtudwx</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/r1izxtudwx</guid>
-    <description><![CDATA[הספר "Hostage" של שורד השבי אלי שרעבי זכה בתואר "ספר השנה היהודי" בארה"ב]]></description>
-    <twitter_summary><![CDATA[הספר "Hostage" של שורד השבי אלי שרעבי זכה בתואר "ספר השנה היהודי" בארה"ב
-הספר "Hostage" של שורד השבי אלי שרעבי זכה בתואר "ספר השנה היהודי" בארה"ב...
-👉 https://www.ynet.co.il/news/article/r1izxtudwx]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 15:11:52 +0200</pubDate>
+    <title>3 פלסטינים נפצעו בתאונה בבקעה, אחד מהם במצב קשה</title>
+    <link>https://www.ynet.co.il/news/article/b1pfr5d00zl</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/b1pfr5d00zl</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="3 פלסטינים נפצעו בתאונה בבקעה, אחד מהם במצב קשה" style="max-width:100%;height:auto;" />
+
+<p>שלושה פלסטינים נפצעו בתאונה בין שני כלי רכב בכביש 90 סמוך לקיבוץ גילגל שבבקעת הירדן, ובהם גבר כבן 30 שמצבו קשה, גבר כבן 30 במצב בינוני ונער כבן 15 שנפצע קל. הם פונו בידי הסהר האדום. המשטרה מסרה כי הכביש נחסם לתנועת לכלי רכב בשני הכיוונים.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/b1pfr5d00zl" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[3 פלסטינים נפצעו בתאונה בבקעה, אחד מהם במצב קשה
+שלושה פלסטינים נפצעו בתאונה בין שני כלי רכב בכביש 90 סמוך לקיבוץ גילגל שבבקעת הירדן, ובהם גבר כבן 30 שמצבו קשה, גבר כבן 30 במצב בינוני ונער כבן 15 שנפצע קל. ה... (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/b1pfr5d00zl]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 16:58:25 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר</title>
-    <link>https://www.ynet.co.il/news/article/sjwmnuduwl</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/sjwmnuduwl</guid>
-    <description><![CDATA[הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר]]></description>
-    <twitter_summary><![CDATA[הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר
-הממשלה אישרה פטור ממס על יבוא אישי עד 150 דולר...
-👉 https://www.ynet.co.il/news/article/sjwmnuduwl]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 14:21:17 +0200</pubDate>
+    <title>הירי במאר-א-לאגו: החשוד התפרץ בנהיגה דרך השער כשרכב אחר יצא</title>
+    <link>https://www.ynet.co.il/news/article/syofgqdd11x</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/syofgqdd11x</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="הירי במאר-א-לאגו: החשוד התפרץ בנהיגה דרך השער כשרכב אחר יצא" style="max-width:100%;height:auto;" />
+
+<p>בהמשך לחיסול החשוד שפרץ לאחוזת מאר-א-לאגו של נשיא ארה&quot;ב דונלד טראמפ, מהחקירה הראשונית עולה כי נסע לתוך שטח האחוזה דרך השער הצפוני, כשהוא מנצל את פתיחת השער ליציאת רכב אחר, ובשלב זה התעמתו איתו הסוכנים. כך דווח בתקושרת האמריקנית בנוסף עולה כי מדובר בתושב מדינת צפון קרוליינה, שמשפחתו דיווחה עליו כנעדר לפני כמה ימים. החוקרים מעריכים כי יצא משם דרומה, ואסף או קנה רובה בדרך. הקופסה של הרובה נמצאה במכוניתו.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/syofgqdd11x" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[הירי במאר-א-לאגו: החשוד התפרץ בנהיגה דרך השער כשרכב אחר יצא
+כך דווח בתקושרת האמריקנית בנוסף עולה כי מדובר בתושב מדינת צפון קרוליינה, שמשפחתו דיווחה עליו כנעדר לפני כמה ימים. החוקרים מעריכים כי יצא משם דרומה... (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/syofgqdd11x]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 16:50:56 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה</title>
-    <link>https://www.ynet.co.il/news/article/h1oc7duo11e</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/h1oc7duo11e</guid>
-    <description><![CDATA[פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה]]></description>
-    <twitter_summary><![CDATA[פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה
-פועל נפל מגובה באתר בנייה ביבנה, מצבו קשה...
-👉 https://www.ynet.co.il/news/article/h1oc7duo11e]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 14:17:09 +0200</pubDate>
+    <title>פצוע אנוש מירי באזור, נבדק חשד לפליטת כדור</title>
+    <link>https://www.ynet.co.il/news/article/sy4fiqou11e</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/sy4fiqou11e</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="פצוע אנוש מירי באזור, נבדק חשד לפליטת כדור" style="max-width:100%;height:auto;" />
+
+<p>צעיר נפצע באורח אנוש מירי בעיר אזור. המשטרה פתחה בחקירה, ונבדק חשד לפליטת כדור.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/sy4fiqou11e" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[פצוע אנוש מירי באזור, נבדק חשד לפליטת כדור
+צעיר נפצע באורח אנוש מירי בעיר אזור. המשטרה פתחה בחקירה, ונבדק חשד לפליטת כדור. (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/sy4fiqou11e]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 16:46:23 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>רוביו צפוי להגיע לישראל במוצ&quot;ש, ולהיפגש עם נתניהו</title>
-    <link>https://www.ynet.co.il/news/article/byejrwuowg</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/byejrwuowg</guid>
-    <description><![CDATA[רוביו צפוי להגיע לישראל במוצ"ש, ולהיפגש עם נתניהו]]></description>
-    <twitter_summary><![CDATA[רוביו צפוי להגיע לישראל במוצ"ש, ולהיפגש עם נתניהו
-רוביו צפוי להגיע לישראל במוצ"ש, ולהיפגש עם נתניהו...
-👉 https://www.ynet.co.il/news/article/byejrwuowg]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 13:57:09 +0200</pubDate>
+    <title>הסוכנות היהודית הקימה מכינה לדרוזים ויהודים בגליל העליון, לקראת שירות בחה&quot;א</title>
+    <link>https://www.ynet.co.il/news/article/sj1gecdd11l</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/sj1gecdd11l</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="הסוכנות היהודית הקימה מכינה לדרוזים ויהודים בגליל העליון, לקראת שירות בחה&quot;א" style="max-width:100%;height:auto;" />
+
+<p>הסוכנות היהודית הקימה מכינה משולבת ביישוב עין אל-אסד שבגליל העליון לצעירים מהחברה הדרוזית והיהודית, &quot;נשרי הצפון&quot;, בשיתוף עם חיל האוויר. זאת כחלק מהרחבת פעילות המכינות של הסוכנות והמענה לאוכלוסיות מגוונות, והמאמץ לחיזוק החברה הישראלית לאחר המלחמה. מטרת המכינה להכין לשירות משמעותי בחיל האוויר.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/sj1gecdd11l" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[הסוכנות היהודית הקימה מכינה לדרוזים ויהודים בגליל העליון, לקראת שירות בחה"א
+הסוכנות היהודית הקימה מכינה משולבת ביישוב עין אל-אסד שבגליל העליון לצעירים מהחברה הדרוזית והיהודית, "נשרי הצפון", בשיתוף עם חיל האוויר. (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/sj1gecdd11l]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 16:27:36 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה</title>
-    <link>https://www.ynet.co.il/news/article/hkf1nv00d11x</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/hkf1nv00d11x</guid>
-    <description><![CDATA[השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה]]></description>
-    <twitter_summary><![CDATA[השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה
-השרים עודכנו: נושא הרוגלות לא יעלה בישיבת הממשלה...
-👉 https://www.ynet.co.il/news/article/hkf1nv00d11x]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 13:45:10 +0200</pubDate>
+    <title>ילד שרכב על אופניים  נפגע מרכב בחיפה, מצבו קשה </title>
+    <link>https://www.ynet.co.il/news/article/r14p119uu11g</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/r14p119uu11g</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="ילד שרכב על אופניים  נפגע מרכב בחיפה, מצבו קשה " style="max-width:100%;height:auto;" />
+
+<p>ילד כבן 9 נפצע באורח קשה כשרכב על אופניים ונפגע מרכב בסמוך לרחוב אל בצרה בחיפה. צוות מד&quot;א פינה אותו לבית החולים רמב&quot;ם בעיר.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/r14p119uu11g" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[ילד שרכב על אופניים  נפגע מרכב בחיפה, מצבו קשה 
+ילד כבן 9 נפצע באורח קשה כשרכב על אופניים ונפגע מרכב בסמוך לרחוב אל בצרה בחיפה. צוות מד"א פינה אותו לבית החולים רמב"ם בעיר. (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/r14p119uu11g]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 16:25:53 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה</title>
-    <link>https://www.ynet.co.il/news/article/by4adpu00wx</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/by4adpu00wx</guid>
-    <description><![CDATA[רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה]]></description>
-    <twitter_summary><![CDATA[רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה
-רוכב קלנועית נפצע קשה מפגיעת רכב בקריית שמונה...
-👉 https://www.ynet.co.il/news/article/by4adpu00wx]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 13:26:57 +0200</pubDate>
+    <title>רגב פרסמה משתה פורים ש&quot;הותר לפרסום&quot;, באופוזיציה תקפו: &quot;עדיף שתהיה בחו&quot;ל&quot;</title>
+    <link>https://www.ynet.co.il/news/article/h1zx0tu00we</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/h1zx0tu00we</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="רגב פרסמה משתה פורים ש&quot;הותר לפרסום&quot;, באופוזיציה תקפו: &quot;עדיף שתהיה בחו&quot;ל&quot;" style="max-width:100%;height:auto;" />
+
+<p>ח&quot;כ מירב בן ארי (יש עתיד) תקפה את את שרת התחבורה מירי רגב, בצל פוסט שהעלתה שמזמין ל&quot;משתה פורים&quot;, תחת הכותרת &quot;הותר לפרסום&quot;. לדברי בן ארי, &quot;אין טאקט, אין רגישות. כלום. אולי עדיף שתהיה בחו&quot;ל, פחות נזק&quot;.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/h1zx0tu00we" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[רגב פרסמה משתה פורים ש"הותר לפרסום", באופוזיציה תקפו: "עדיף שתהיה בחו"ל"
+ח"כ מירב בן ארי (יש עתיד) תקפה את את שרת התחבורה מירי רגב, בצל פוסט שהעלתה שמזמין ל"משתה פורים", תחת הכותרת "הותר לפרסום". לדברי בן א... (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/h1zx0tu00we]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 16:16:21 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>נתניהו: בנט וגנץ החזירו את התשלומים מקטאר לעזה - והכפילו אותם</title>
-    <link>https://www.ynet.co.il/news/article/sjiz8podbg</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/sjiz8podbg</guid>
-    <description><![CDATA[נתניהו: בנט וגנץ החזירו את התשלומים מקטאר לעזה - והכפילו אותם]]></description>
-    <twitter_summary><![CDATA[נתניהו: בנט וגנץ החזירו את התשלומים מקטאר לעזה - והכפילו אותם
-נתניהו: בנט וגנץ החזירו את התשלומים מקטאר לעזה - והכפילו אותם...
-👉 https://www.ynet.co.il/news/article/sjiz8podbg]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 13:20:55 +0200</pubDate>
+    <title>רוכב אופניים חשמליים נפגע מרכב בגליל התחתון, מצבו קשה</title>
+    <link>https://www.ynet.co.il/news/article/bkmmot00dwl</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/bkmmot00dwl</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="רוכב אופניים חשמליים נפגע מרכב בגליל התחתון, מצבו קשה" style="max-width:100%;height:auto;" />
+
+<p>רוכב אופניים חשמליים כבן 15 נפצע באורח קשה מפגיעת רכב במרר שבגליל התחתון. צוות מד&quot;א פינה אותו לבית החולים צפון-פוריה בטבריה.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/bkmmot00dwl" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[רוכב אופניים חשמליים נפגע מרכב בגליל התחתון, מצבו קשה
+רוכב אופניים חשמליים כבן 15 נפצע באורח קשה מפגיעת רכב במרר שבגליל התחתון. צוות מד"א פינה אותו לבית החולים צפון-פוריה בטבריה. (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/bkmmot00dwl]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 16:04:59 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>אישום: נערים מאשדוד תקפו גבר שהכירו באפליקציית היכרויות - ושדדו באיומי סכין </title>
-    <link>https://www.ynet.co.il/news/article/hka9zwouzg</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/hka9zwouzg</guid>
-    <description><![CDATA[אישום: נערים מאשדוד תקפו גבר שהכירו באפליקציית היכרויות - ושדדו באיומי סכין ]]></description>
-    <twitter_summary><![CDATA[אישום: נערים מאשדוד תקפו גבר שהכירו באפליקציית היכרויות - ושדדו באיומי סכין 
-אישום: נערים מאשדוד תקפו גבר שהכירו באפליקציית היכרויות - ושדדו באיומי סכין ...
-👉 https://www.ynet.co.il/news/article/hka9zwouzg]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 13:03:30 +0200</pubDate>
+    <title>בנט עונה לרה&quot;מ: &quot;קשה להתייחס לציוץ כשלא ברור אם נכתב ע&quot;י סוכן קטארי&quot;</title>
+    <link>https://www.ynet.co.il/news/article/bjk7qfodzl</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/bjk7qfodzl</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="בנט עונה לרה&quot;מ: &quot;קשה להתייחס לציוץ כשלא ברור אם נכתב ע&quot;י סוכן קטארי&quot;" style="max-width:100%;height:auto;" />
+
+<p>ראש הממשלה לשעבר נפתלי בנט הגיב לטענת ראש הממשלה בנימין נתניהו, שלפיה בתקופת כהונתו &quot;החזירו את התשלומים מקטאר ואף הכפילו אותם במענק דומה מהרשות הפלסטינית&quot;, וכתב ברשת X: &quot;קשה להתייחס ברצינות לציוץ הזה כשלא ברור מי כתב אותו - נתניהו, או אחד מיועציו שעבדו כסוכנים קטאריים בתשלום&quot;.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/bjk7qfodzl" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[בנט עונה לרה"מ: "קשה להתייחס לציוץ כשלא ברור אם נכתב ע"י סוכן קטארי"
+ראש הממשלה לשעבר נפתלי בנט הגיב לטענת ראש הממשלה בנימין נתניהו, שלפיה בתקופת כהונתו "החזירו את התשלומים מקטאר ואף הכפילו אותם במענק דומה מ... (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/bjk7qfodzl]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 16:03:12 +0200</pubDate>
+    <category>news</category>
   </item>
   <item>
-    <title>רוטמן: &quot;בהרב-מיארה מחפה על עבירות פליליות חמורות&quot;</title>
-    <link>https://www.ynet.co.il/news/article/s1uszv0000be</link>
-    <guid isPermaLink="true">https://www.ynet.co.il/news/article/s1uszv0000be</guid>
-    <description><![CDATA[רוטמן: "בהרב-מיארה מחפה על עבירות פליליות חמורות"]]></description>
-    <twitter_summary><![CDATA[רוטמן: "בהרב-מיארה מחפה על עבירות פליליות חמורות"
-רוטמן: "בהרב-מיארה מחפה על עבירות פליליות חמורות"...
-👉 https://www.ynet.co.il/news/article/s1uszv0000be]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 12:58:54 +0200</pubDate>
+    <title>ארה&quot;ב: השירות החשאי חיסל חמוש שהסתנן לאחוזת טראמפ בפלורידה</title>
+    <link>https://www.ynet.co.il/news/article/Sk3sjYOOZx</link>
+    <guid isPermaLink="true">https://www.ynet.co.il/news/article/Sk3sjYOOZx</guid>
+    <description><![CDATA[<img src="https://www.ynet.co.il/images/big_defual_image_1024_new.png" alt="ארה&quot;ב: השירות החשאי חיסל חמוש שהסתנן לאחוזת טראמפ בפלורידה" style="max-width:100%;height:auto;" />
+
+<p>השירות חשאי של ארצות הברית הודיע כי סוכניו ירו למוות בצעיר בשנות ה-20 לחייו, לאחר שנכנס באופן לא מורשה למתחם המאובטח במאר-א-לאגו, אחוזתו של הנשיא דונלד טראמפ. לפי ההודעה, האדם נצפה ליד השער הצפוני של מאר-א-לאגו כשהוא נושא &quot;מה שנראה כרובה ציד ומכל דלק&quot;. כמו כן, נמסר כי הסוכנים וסגן מחלקת השריף של מחוז פאלם ביץ&amp;#x27; התעמתו עם החשוד, וכי האירוע, לרבות הרקע והמניע הפוטנציאלי, נמצא תחת חקירה.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> Ynet Breaking News
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.ynet.co.il/news/article/Sk3sjYOOZx" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[ארה"ב: השירות החשאי חיסל חמוש שהסתנן לאחוזת טראמפ בפלורידה
+השירות חשאי של ארצות הברית הודיע כי סוכניו ירו למוות בצעיר בשנות ה-20 לחייו, לאחר שנכנס באופן לא מורשה למתחם המאובטח במאר-א-לאגו, אחוזתו של הנשיא דו... (Ynet Breaking News)
+👉 https://www.ynet.co.il/news/article/Sk3sjYOOZx]]></twitter_summary>
+    <enclosure url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" length="0" />
+    <media:content url="https://www.ynet.co.il/images/big_defual_image_1024_new.png" type="image/jpeg" medium="image" />
+    <pubDate>Sun, 22 Feb 2026 15:59:00 +0200</pubDate>
+    <category>news</category>
   </item>
 </channel>
 </rss>
