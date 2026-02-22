@@ -5,50 +5,35 @@
   <link>https://spz.local/nyt-homepage.xml</link>
   <description>Feed from NYT Homepage - with images and summaries</description>
   <language>en</language>
-  <lastBuildDate>Sun, 22 Feb 2026 13:04:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Feb 2026 21:14:30 +0000</lastBuildDate>
   <atom:link href="https://spz.local/nyt-homepage.xml" rel="self" type="application/rss+xml" />
   <generator>SPZ Aggregator v2.0 (Per-Feed)</generator>
   <item>
-    <title>Trump’s Trade Gamble Will Continue, Despite Supreme Court Rebuke</title>
-    <link>https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html</guid>
-    <description><![CDATA[<p>The president seems as intent on tariffs as ever and argues that his trade agenda is succeeding, despite little evidence to support it</p>
+    <title>Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says</title>
+    <link>https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html</guid>
+    <description><![CDATA[<p>The local sheriff identified the man as a 21-year-old resident of Cameron, N.C. The president was not at his resort in Florida and has not commented on the shooting.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Ana Swanson
+👤 <strong>מחבר:</strong> Minho Kim, Sonia A. Rao and Tyler Pager
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <pubDate>Sat, 21 Feb 2026 20:46:36 +0000</pubDate>
+    <twitter_summary><![CDATA[Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says
+The local sheriff identified the man as a 21-year-old resident of Cameron, N.C. The president was not a... (NYT Homepage | Minho Kim, Sonia A. Rao and Tyler Pager)
+👉 https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 21:02:47 +0000</pubDate>
     <category>news</category>
-    <author>Ana Swanson</author>
-  </item>
-  <item>
-    <title>Trump Looks Ahead to Summit With China’s Xi, but Tariffs and Taiwan Loom</title>
-    <link>https://www.nytimes.com/2026/02/22/world/asia/trump-xi-jinping-meeting-china.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/world/asia/trump-xi-jinping-meeting-china.html</guid>
-    <description><![CDATA[<p>President Trump said his planned meeting with President Xi Jinping would be a grand display, but tensions over trade and defense could dampen the mood.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Chris Buckley
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/world/asia/trump-xi-jinping-meeting-china.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
-    <pubDate>Sun, 22 Feb 2026 12:18:05 +0000</pubDate>
-    <category>news</category>
-    <author>Chris Buckley</author>
+    <author>Minho Kim, Sonia A. Rao and Tyler Pager</author>
   </item>
   <item>
     <title>They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.</title>
     <link>https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html</link>
     <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html</guid>
-    <description><![CDATA[<p>Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they may have been better off waiting.</p>
+    <description><![CDATA[<p>Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they might have been better off waiting.</p>
 
 <hr />
 
@@ -58,81 +43,75 @@
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
 🔗 <a href="https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <pubDate>Sun, 22 Feb 2026 10:01:08 +0000</pubDate>
+    <twitter_summary><![CDATA[They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.
+Countries that under the threat of tariffs made commitments like enormous investment pledges f... (NYT Homepage | Alexandra Stevenson and River Akira Davis)
+👉 https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 19:00:47 +0000</pubDate>
     <category>news</category>
     <author>Alexandra Stevenson and River Akira Davis</author>
   </item>
   <item>
-    <title>How the Times Weather Team Tracks Big Storms: More Data, Less Hype</title>
-    <link>https://www.nytimes.com/2026/02/22/insider/weather-team-forecast-blizzard.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/insider/weather-team-forecast-blizzard.html</guid>
-    <description><![CDATA[<p>When making forecasts, our reporters aim to visualize severe weather possibilities rather than focus on the most dire predictions. A possible blizzard this weekend is the latest test.</p>
+    <title>Who Won the Olympics? All the Ways to Count We Could Think Of.</title>
+    <link>https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html</guid>
+    <description><![CDATA[<p>Which country won the most events on snow, ice or sliding track? Here are all the ways we could think of to track the medal count.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> John Keefe, Erin McCann, Judson Jones, Amy Graff, Nazaneen Ghaffar and Seth Carlson
+👤 <strong>מחבר:</strong> Ben Blatt
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/insider/weather-team-forecast-blizzard.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <pubDate>Sun, 22 Feb 2026 05:46:02 +0000</pubDate>
+    <twitter_summary><![CDATA[Who Won the Olympics? All the Ways to Count We Could Think Of.
+Which country won the most events on snow, ice or sliding track? Here are all the ways we could think of to track the medal count. (NYT Homepage | Ben Blatt)
+👉 https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 16:16:05 +0000</pubDate>
     <category>news</category>
-    <author>John Keefe, Erin McCann, Judson Jones, Amy Graff, Nazaneen Ghaffar and Seth Carlson</author>
+    <author>Ben Blatt</author>
   </item>
   <item>
-    <title>Here Are the Five Biggest Snowstorms in New York City Since 1869</title>
-    <link>https://www.nytimes.com/2026/02/22/weather/here-are-the-five-biggest-snowstorms-in-new-york-city-since-1869.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/weather/here-are-the-five-biggest-snowstorms-in-new-york-city-since-1869.html</guid>
-    <description><![CDATA[<p>This week’s storm, which is expected to bring 12 to 20 inches of snow to the city, has prompted the first blizzard warning issued for the city since 2017.</p>
+    <title>Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn</title>
+    <link>https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html</guid>
+    <description><![CDATA[<p>Security officials are monitoring increasingly worrisome signs as President Trump considers another military campaign against Iran.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Ashley Ahn
+👤 <strong>מחבר:</strong> Eric Schmitt
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/weather/here-are-the-five-biggest-snowstorms-in-new-york-city-since-1869.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <pubDate>Sun, 22 Feb 2026 12:24:36 +0000</pubDate>
+    <twitter_summary><![CDATA[Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn
+Security officials are monitoring increasingly worrisome signs as President Trump considers another military campaign a... (NYT Homepage | Eric Schmitt)
+👉 https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 19:20:19 +0000</pubDate>
     <category>news</category>
-    <author>Ashley Ahn</author>
+    <author>Eric Schmitt</author>
   </item>
   <item>
-    <title>Inside Iran’s Preparations for War and Plans for Survival</title>
-    <link>https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html</guid>
-    <description><![CDATA[<p>Ayatollah Ali Khamenei has entrusted Ali Larijani, the top national security official, to ensure the Islamic Republic endures any military attacks and targeted killings.</p>
+    <title>Iran Students Protest for Second Day Despite State Crackdown</title>
+    <link>https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html</guid>
+    <description><![CDATA[<p>Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Farnaz Fassihi
+👤 <strong>מחבר:</strong> Erika Solomon, Sanam Mahoozi and Devon Lum
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <pubDate>Sun, 22 Feb 2026 10:33:14 +0000</pubDate>
+    <twitter_summary><![CDATA[Iran Students Protest for Second Day Despite State Crackdown
+Student groups reported protests at universities in Iran’s two largest cities as the government grap... (NYT Homepage | Erika Solomon, Sanam Mahoozi and Devon Lum)
+👉 https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 20:55:30 +0000</pubDate>
     <category>news</category>
-    <author>Farnaz Fassihi</author>
-  </item>
-  <item>
-    <title>How The Times Made Its Tiny, Animated Olympic Athletes</title>
-    <link>https://www.nytimes.com/2026/02/20/insider/winter-olympics-little-athletes.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/20/insider/winter-olympics-little-athletes.html</guid>
-    <description><![CDATA[<p>The Times’s tiny animated athletes flip, spin and soar through the air just like their real-life counterparts.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Alice Fang, Matt Ruby, Wilson Andrews and Eden Weingart
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/20/insider/winter-olympics-little-athletes.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
-    <pubDate>Fri, 20 Feb 2026 23:04:17 +0000</pubDate>
-    <category>news</category>
-    <author>Alice Fang, Matt Ruby, Wilson Andrews and Eden Weingart</author>
+    <author>Erika Solomon, Sanam Mahoozi and Devon Lum</author>
   </item>
   <item>
     <title>The Ex-Taxi Driver at the Center of Russia’s Shadow War</title>
@@ -148,7 +127,10 @@
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
 🔗 <a href="https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <pubDate>Sun, 22 Feb 2026 10:43:41 +0000</pubDate>
+    <twitter_summary><![CDATA[The Ex-Taxi Driver at the Center of Russia’s Shadow War
+The Kremlin’s sabotage campaign against European allies of Ukraine has been escalating. It needs people like Aleks... (NYT Homepage | Michael Schwirtz and Adam Goldman)
+👉 https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 14:02:25 +0000</pubDate>
     <category>news</category>
     <author>Michael Schwirtz and Adam Goldman</author>
   </item>
@@ -166,7 +148,10 @@
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
 🔗 <a href="https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <pubDate>Sun, 22 Feb 2026 12:01:03 +0000</pubDate>
+    <twitter_summary><![CDATA[Russia Attacks Ukraine Ahead of Invasion’s 4th Anniversary
+At least one man was killed in Kyiv as Moscow launched a wave of drones and missiles, days after the latest round of U.S.-mediated tal... (NYT Homepage | Kim Barker)
+👉 https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 18:44:04 +0000</pubDate>
     <category>news</category>
     <author>Kim Barker</author>
   </item>
@@ -184,9 +169,54 @@
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
 🔗 <a href="https://www.nytimes.com/2026/02/22/magazine/oklahoma-domestic-violence-survivors-act.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
+    <twitter_summary><![CDATA[They Killed Their Abusers. Should They Spend Their Lives in Prison?
+A new law was supposed to help reduce the sentences of survivors of domestic violence. Most are still behind bars. (NYT Homepage | Pamela Colloff)
+👉 https://www.nytimes.com/2026/02/22/magazine/oklahoma-domestic-violence-survivors-act.html]]></twitter_summary>
     <pubDate>Sun, 22 Feb 2026 10:00:24 +0000</pubDate>
     <category>news</category>
     <author>Pamela Colloff</author>
+  </item>
+  <item>
+    <title>2026 BAFTAs Winners: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’</title>
+    <link>https://www.nytimes.com/2026/02/22/movies/baftas-2026.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/movies/baftas-2026.html</guid>
+    <description><![CDATA[<p>Paul Thomas Anderson’s comedy drama won six awards at the British equivalent of the Oscars. The best actor choice, however, was a surprise.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> NYT Homepage
+👤 <strong>מחבר:</strong> Alex Marshall
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.nytimes.com/2026/02/22/movies/baftas-2026.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[2026 BAFTAs Winners: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’
+Paul Thomas Anderson’s comedy drama won six awards at the British equivalent of the Oscars. The best actor c... (NYT Homepage | Alex Marshall)
+👉 https://www.nytimes.com/2026/02/22/movies/baftas-2026.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 20:55:36 +0000</pubDate>
+    <category>news</category>
+    <author>Alex Marshall</author>
+  </item>
+  <item>
+    <title>2026 BAFTA Awards Photos: Looks From the Red Carpet</title>
+    <link>https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html</guid>
+    <description><![CDATA[<p>Teyana Taylor, Paul Mescal, Michael B. Jordan and the Prince of Wales turned out in style for Britain’s biggest celebration of film.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> NYT Homepage
+👤 <strong>מחבר:</strong> The Styles Desk
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[2026 BAFTA Awards Photos: Looks From the Red Carpet
+Teyana Taylor, Paul Mescal, Michael B. Jordan and the Prince of Wales turned out in style for Britain’s biggest celebration of film. (NYT Homepage | The Styles Desk)
+👉 https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 19:21:02 +0000</pubDate>
+    <category>news</category>
+    <author>The Styles Desk</author>
   </item>
 </channel>
 </rss>
