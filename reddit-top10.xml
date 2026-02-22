@@ -1,322 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-  <title>SPZ Reddit - Top 10 (S-Tier)</title>
+  <title>Reddit Top 10</title>
   <link>https://spz.local/reddit-top10.xml</link>
-  <description>Highest ranked posts (S &amp; A tier)</description>
-  <language>en</language>
-  <lastBuildDate>Sun, 22 Feb 2026 13:45:01 +0000</lastBuildDate>
-  <atom:link href="https://spz.local/reddit-top10.xml" rel="self" type="application/rss+xml" />
-  <generator>SPZ Reddit Aggregator v2.0 (Dual Scoring)</generator>
-  <item>
-    <title>Greenland does not need US hospital boat sent by Trump, says Denmark</title>
-    <link>https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/</link>
-    <guid isPermaLink="true">https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>3676</strong> upvotes | 💬 <strong>278</strong> comments
-| 📊 98% upvoted | ⭐ <strong>דירוג: S</strong> (83.0/100)
-</div>
-<hr />
-📡 <strong>Subreddit:</strong> r/worldnews
-👤 <strong>Author:</strong> u/SelcouthConcerts
-🔗 <strong>Domain:</strong> theguardian.com
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
-<br/><a href="https://www.theguardian.com/world/2026/feb/22/greenland-does-not-need-us-hospital-boat-sent-by-trump-says-denmark" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Greenland does not need US hospital boat sent by Trump, says Denmark
- (r/worldnews | 3676🔺 278💬)
-👉 https://reddit.com/r/worldnews/comments/1rbj6lt/greenland_does_not_need_us_hospital_boat_sent_by/]]></twitter_summary>
-    <reddit:score>3676</reddit:score>
-    <reddit:comments>278</reddit:comments>
-    <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
-    <reddit:subreddit>r/worldnews</reddit:subreddit>
-    <reddit:author>u/SelcouthConcerts</reddit:author>
-    <dual_score>83.0</dual_score>
-    <tier>S</tier>
-    <relevancy_score>8</relevancy_score>
-    <category>news</category>
-    <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>Student Who Punched Another Student Holding Pro-ICE Sign At Lake Zurich High School Received 2-day Suspension</title>
-    <link>https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/</link>
-    <guid isPermaLink="true">https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>15247</strong> upvotes | 💬 <strong>1349</strong> comments
-| 📊 94% upvoted | ⭐ <strong>דירוג: S</strong> (81.3/100)
-</div>
-<hr />
-📡 <strong>Subreddit:</strong> r/news
-👤 <strong>Author:</strong> u/gur40goku
-🔗 <strong>Domain:</strong> lakemchenryscanner.com
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
-<br/><a href="https://www.lakemchenryscanner.com/2026/02/20/student-who-punched-another-student-holding-pro-ice-sign-at-lake-zurich-high-school-received-2-day-suspension/" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Student Who Punched Another Student Holding Pro-ICE Sign At Lake Zurich High School Received 2-day Suspension
- (r/news | 15247🔺 1349💬)
-👉 https://reddit.com/r/news/comments/1rbeep1/student_who_punched_another_student_holding/]]></twitter_summary>
-    <reddit:score>15247</reddit:score>
-    <reddit:comments>1349</reddit:comments>
-    <reddit:upvote_ratio>0.94</reddit:upvote_ratio>
-    <reddit:subreddit>r/news</reddit:subreddit>
-    <reddit:author>u/gur40goku</reddit:author>
-    <dual_score>81.3</dual_score>
-    <tier>S</tier>
-    <relevancy_score>8</relevancy_score>
-    <category>news</category>
-    <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>To surveil Americans</title>
-    <link>https://reddit.com/r/therewasanattempt/comments/1rb2ebp/to_surveil_americans/</link>
-    <guid isPermaLink="true">https://reddit.com/r/therewasanattempt/comments/1rb2ebp/to_surveil_americans/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>11233</strong> upvotes | 💬 <strong>267</strong> comments
-| 📊 98% upvoted | ⭐ <strong>דירוג: A</strong> (71.8/100)
-</div>
-<hr />
-📡 <strong>Subreddit:</strong> r/therewasanattempt
-👤 <strong>Author:</strong> u/ShiningRedDwarf
-🔗 <strong>Domain:</strong> i.redd.it
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/therewasanattempt/comments/1rb2ebp/to_surveil_americans/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
-<br/><a href="https://i.redd.it/p2r0kioiwwkg1.jpeg" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[To surveil Americans
- (r/therewasanattempt | 11233🔺 267💬)
-👉 https://reddit.com/r/therewasanattempt/comments/1rb2ebp/to_surveil_americans/]]></twitter_summary>
-    <reddit:score>11233</reddit:score>
-    <reddit:comments>267</reddit:comments>
-    <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
-    <reddit:subreddit>r/therewasanattempt</reddit:subreddit>
-    <reddit:author>u/ShiningRedDwarf</reddit:author>
-    <dual_score>71.8</dual_score>
-    <tier>A</tier>
-    <relevancy_score>7</relevancy_score>
-    <category>viral</category>
-    <priority>low</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>Why is there still support for Hamas? a realistic view from someone tired of slogans</title>
-    <link>https://reddit.com/r/IsraelPalestine/comments/1ra4u9b/why_is_there_still_support_for_hamas_a_realistic/</link>
-    <guid isPermaLink="true">https://reddit.com/r/IsraelPalestine/comments/1ra4u9b/why_is_there_still_support_for_hamas_a_realistic/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>52</strong> upvotes | 💬 <strong>273</strong> comments
-| 📊 81% upvoted | ⭐ <strong>דירוג: A</strong> (65.6/100)
-</div>
-<p>Hi guys I will be honest I changed my mind about Hamas. Maybe I am a bit late, but the reality is now impossible to ignore. I want to share a frustrating experience I had in another sub I joined a discussion there, but my comments were deleted. When I asked the moderators why, they told me I was **&apos;promoting the Zionist narrative.&apos;** But i just wrote &apos;Hamas is part of the problem. Why didn’t they build even one shelter for civilians before starting this? What did they expect would happen?&apos; I was looking for a rational and strategic discussion, but I realized this is impossible with people who follow emotions instead of logic One specific reply disgusted me **&apos;At least the Zionists are exposed now everyone knows the truth.&apos;** This is a very cruel opinion. It always hurts me to see children ...</p>
-<hr />
-📡 <strong>Subreddit:</strong> r/IsraelPalestine
-👤 <strong>Author:</strong> u/Gullible_Sock_1019
-🔗 <strong>Domain:</strong> self.IsraelPalestine
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/IsraelPalestine/comments/1ra4u9b/why_is_there_still_support_for_hamas_a_realistic/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Why is there still support for Hamas? a realistic view from someone tired of slogans
- (r/IsraelPalestine | 52🔺 273💬)
-👉 https://reddit.com/r/IsraelPalestine/comments/1ra4u9b/why_is_there_still_support_for_hamas_a_realistic/]]></twitter_summary>
-    <reddit:score>52</reddit:score>
-    <reddit:comments>273</reddit:comments>
-    <reddit:upvote_ratio>0.81</reddit:upvote_ratio>
-    <reddit:subreddit>r/IsraelPalestine</reddit:subreddit>
-    <reddit:author>u/Gullible_Sock_1019</reddit:author>
-    <dual_score>65.6</dual_score>
-    <tier>A</tier>
-    <relevancy_score>6</relevancy_score>
-    <category>debate</category>
-    <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:27 +0000</pubDate>
-  </item>
+  <description>Top posts</description>
+  <lastBuildDate>Sun, 22 Feb 2026 14:00:55 +0000</lastBuildDate>
   <item>
     <title>A Ukrainian &quot;Hart brigade&quot; drone unit is attacking a warehouse Russian soldiers used to hide equipment in it. The first pilot uses his fiber optic quad to blow a hole into the building for the other units to attack the vehicles and burn down the structure. Kharkiv Oblast.</title>
     <link>https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/</link>
-    <guid isPermaLink="true">https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>1769</strong> upvotes | 💬 <strong>38</strong> comments
-| 📊 98% upvoted | ⭐ <strong>דירוג: B</strong> (63.1/100)
+    <description><![CDATA[<div style="padding:10px;background:#f6f8fa;border-radius:6px;margin-bottom:10px;">
+🔺 <strong>1787</strong> | 💬 <strong>38</strong> | דירוג: <strong>C</strong> (41.5/100)
 </div>
-<hr />
-📡 <strong>Subreddit:</strong> r/CombatFootage
-👤 <strong>Author:</strong> u/MilesLongthe3rd
-🔗 <strong>Domain:</strong> v.redd.it
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
-<br/><a href="https://v.redd.it/step5ei5dukg1" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
+<div style="margin:15px 0;text-align:center;">
+<img src="https://external-preview.redd.it/aGV6cXZnaTVkdWtnMaP27H2AUvDyn6nqa-K9qtfA5c950OV1_8gFmLkxa8lg.png?width=140&amp;height=79&amp;format=jpg&amp;auto=webp&amp;s=4eeb98fdc6c90c1999db63fc61a90c7d26339ec9" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+<img src="https://external-preview.redd.it/aGV6cXZnaTVkdWtnMaP27H2AUvDyn6nqa-K9qtfA5c950OV1_8gFmLkxa8lg.png?format=pjpg&auto=webp&s=41c586aebcdb204bc99d64e1236a76803ce8edcf" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+</div>
+<div style="margin-top:15px;padding:12px;background:#f0f0f0;border-radius:6px;text-align:center;">
+<a href="https://reddit.com/r/CombatFootage/comments/1rapy3k/a_ukrainian_hart_brigade_drone_unit_is_attacking/">🔗 צפה בפוסט ברדיט</a>
+ | <a href="https://v.redd.it/step5ei5dukg1">🌐 קישור</a>
 </div>]]></description>
-    <twitter_summary><![CDATA[A Ukrainian "Hart brigade" drone unit is attacking a warehouse Russian soldiers used to hide equipment in it. The first pilot uses his fiber optic quad to blow a hole into the building for the other units to attack the vehicles and burn down the structure. Kharkiv Oblast.
- (r/...]]></twitter_summary>
-    <reddit:score>1769</reddit:score>
-    <reddit:comments>38</reddit:comments>
-    <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
-    <reddit:subreddit>r/CombatFootage</reddit:subreddit>
-    <reddit:author>u/MilesLongthe3rd</reddit:author>
-    <dual_score>63.1</dual_score>
-    <tier>B</tier>
-    <relevancy_score>6</relevancy_score>
-    <category>military</category>
-    <priority>medium</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:23 +0000</pubDate>
+    <enclosure url="https://external-preview.redd.it/aGV6cXZnaTVkdWtnMaP27H2AUvDyn6nqa-K9qtfA5c950OV1_8gFmLkxa8lg.png?width=140&amp;height=79&amp;format=jpg&amp;auto=webp&amp;s=4eeb98fdc6c90c1999db63fc61a90c7d26339ec9" type="image/jpeg" />
+    <media:content url="https://external-preview.redd.it/aGV6cXZnaTVkdWtnMaP27H2AUvDyn6nqa-K9qtfA5c950OV1_8gFmLkxa8lg.png?width=140&amp;height=79&amp;format=jpg&amp;auto=webp&amp;s=4eeb98fdc6c90c1999db63fc61a90c7d26339ec9" type="image/jpeg" />
+    <dual_score>41.5</dual_score>
+    <tier>C</tier>
   </item>
   <item>
-    <title>Ukrainian FP-5 &quot;Flamingo&quot; cruise missiles fired towards the Votkinsk missile production plant in Votkinsk, Republic of Udmurtia, Russia. 20 February 2026</title>
-    <link>https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles_fired/</link>
-    <guid isPermaLink="true">https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles_fired/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>1311</strong> upvotes | 💬 <strong>22</strong> comments
-| 📊 98% upvoted | ⭐ <strong>דירוג: B</strong> (59.4/100)
+    <title>A Ukrainian FP-2 UAV attacks an oil depot near the occupied city of Luhansk.</title>
+    <link>https://reddit.com/r/CombatFootage/comments/1rbk6mz/a_ukrainian_fp2_uav_attacks_an_oil_depot_near_the/</link>
+    <description><![CDATA[<div style="padding:10px;background:#f6f8fa;border-radius:6px;margin-bottom:10px;">
+🔺 <strong>96</strong> | 💬 <strong>4</strong> | דירוג: <strong>D</strong> (15.9/100)
 </div>
-<hr />
-📡 <strong>Subreddit:</strong> r/CombatFootage
-👤 <strong>Author:</strong> u/jisooya1432
-🔗 <strong>Domain:</strong> v.redd.it
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles_fired/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
-<br/><a href="https://v.redd.it/ee54c6vnwpkg1" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
+<div style="margin:15px 0;text-align:center;">
+<img src="https://external-preview.redd.it/bzNqM2t3MzdkMWxnMc4BxBXXzYQhMOTUHWUmTD3aJ0qCDoUPJdFmHhp9AZy_.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=414786a12a2bc541c152fe3919c04ccfbc9ef137" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+<img src="https://external-preview.redd.it/bzNqM2t3MzdkMWxnMc4BxBXXzYQhMOTUHWUmTD3aJ0qCDoUPJdFmHhp9AZy_.png?format=pjpg&auto=webp&s=48489fa774c3629910b593cf7b09ebd38a2b3818" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+</div>
+<div style="margin-top:15px;padding:12px;background:#f0f0f0;border-radius:6px;text-align:center;">
+<a href="https://reddit.com/r/CombatFootage/comments/1rbk6mz/a_ukrainian_fp2_uav_attacks_an_oil_depot_near_the/">🔗 צפה בפוסט ברדיט</a>
+ | <a href="https://v.redd.it/75cyqn37d1lg1">🌐 קישור</a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Ukrainian FP-5 "Flamingo" cruise missiles fired towards the Votkinsk missile production plant in Votkinsk, Republic of Udmurtia, Russia. 20 February 2026
- (r/CombatFootage | 1311🔺 22💬)
-👉 https://reddit.com/r/CombatFootage/comments/1ra864u/ukrainian_fp5_flamingo_cruise_missiles...]]></twitter_summary>
-    <reddit:score>1311</reddit:score>
-    <reddit:comments>22</reddit:comments>
-    <reddit:upvote_ratio>0.98</reddit:upvote_ratio>
-    <reddit:subreddit>r/CombatFootage</reddit:subreddit>
-    <reddit:author>u/jisooya1432</reddit:author>
-    <dual_score>59.4</dual_score>
-    <tier>B</tier>
-    <relevancy_score>5</relevancy_score>
-    <category>military</category>
-    <priority>medium</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:23 +0000</pubDate>
+    <enclosure url="https://external-preview.redd.it/bzNqM2t3MzdkMWxnMc4BxBXXzYQhMOTUHWUmTD3aJ0qCDoUPJdFmHhp9AZy_.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=414786a12a2bc541c152fe3919c04ccfbc9ef137" type="image/jpeg" />
+    <media:content url="https://external-preview.redd.it/bzNqM2t3MzdkMWxnMc4BxBXXzYQhMOTUHWUmTD3aJ0qCDoUPJdFmHhp9AZy_.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=414786a12a2bc541c152fe3919c04ccfbc9ef137" type="image/jpeg" />
+    <dual_score>15.9</dual_score>
+    <tier>D</tier>
   </item>
   <item>
-    <title>Active Conflicts &amp;amp; News Megathread February 19, 2026</title>
-    <link>https://reddit.com/r/CredibleDefense/comments/1r8vsx6/active_conflicts_news_megathread_february_19_2026/</link>
-    <guid isPermaLink="true">https://reddit.com/r/CredibleDefense/comments/1r8vsx6/active_conflicts_news_megathread_february_19_2026/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>38</strong> upvotes | 💬 <strong>127</strong> comments
-| 📊 94% upvoted | ⭐ <strong>דירוג: B</strong> (57.6/100)
+    <title>A Ukrainian mobile air defense team shoots down an Iranian/Russian &quot;Shahed&quot; UAV with a machine gun during the attack this morning.</title>
+    <link>https://reddit.com/r/CombatFootage/comments/1rbiy5l/a_ukrainian_mobile_air_defense_team_shoots_down/</link>
+    <description><![CDATA[<div style="padding:10px;background:#f6f8fa;border-radius:6px;margin-bottom:10px;">
+🔺 <strong>54</strong> | 💬 <strong>2</strong> | דירוג: <strong>D</strong> (15.2/100)
 </div>
-<p>The r/CredibleDefense daily megathread is for asking questions and posting submissions that would not fit the criteria of our post submissions. As such, submissions are less stringently moderated, but we still do keep an elevated guideline for comments. Comment guidelines: Please do: \* Be curious not judgmental, polite and civil, \* Link to the article or source of information that you are referring to, \* Clearly separate your opinion from what the source says. Minimize editorializing. Do \_not\_ cherry pick facts to support a preferred narrative, \* Read the articles before you comment, and comment on the content of the articles, \* Post only credible information \* Read our in depth rules [https://reddit.com/r/CredibleDefense/wiki/rules](https://reddit.com/r/CredibleDefense/wiki/rules)...</p>
-<hr />
-📡 <strong>Subreddit:</strong> r/CredibleDefense
-👤 <strong>Author:</strong> u/AutoModerator
-🔗 <strong>Domain:</strong> self.CredibleDefense
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/CredibleDefense/comments/1r8vsx6/active_conflicts_news_megathread_february_19_2026/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+<div style="margin:15px 0;text-align:center;">
+<img src="https://external-preview.redd.it/MWEyODFjYjIxMWxnMbyZ9FPuEIglgB8GPLf1BOo5KRDyOkImfu0J2nhbm7jb.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=eaccb1c3ce718d163490f0b63f7391de8f3c87c5" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+<img src="https://external-preview.redd.it/MWEyODFjYjIxMWxnMbyZ9FPuEIglgB8GPLf1BOo5KRDyOkImfu0J2nhbm7jb.png?format=pjpg&auto=webp&s=d6adbc8e6ef0cbaea9e7ffd3c415bcb8ad166367" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+</div>
+<div style="margin-top:15px;padding:12px;background:#f0f0f0;border-radius:6px;text-align:center;">
+<a href="https://reddit.com/r/CombatFootage/comments/1rbiy5l/a_ukrainian_mobile_air_defense_team_shoots_down/">🔗 צפה בפוסט ברדיט</a>
+ | <a href="https://v.redd.it/t6bek4b211lg1">🌐 קישור</a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Active Conflicts &amp; News Megathread February 19, 2026
- (r/CredibleDefense | 38🔺 127💬)
-👉 https://reddit.com/r/CredibleDefense/comments/1r8vsx6/active_conflicts_news_megathread_february_19_2026/]]></twitter_summary>
-    <reddit:score>38</reddit:score>
-    <reddit:comments>127</reddit:comments>
-    <reddit:upvote_ratio>0.94</reddit:upvote_ratio>
-    <reddit:subreddit>r/CredibleDefense</reddit:subreddit>
-    <reddit:author>u/AutoModerator</reddit:author>
-    <dual_score>57.6</dual_score>
-    <tier>B</tier>
-    <relevancy_score>5</relevancy_score>
-    <category>military</category>
-    <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:38 +0000</pubDate>
+    <enclosure url="https://external-preview.redd.it/MWEyODFjYjIxMWxnMbyZ9FPuEIglgB8GPLf1BOo5KRDyOkImfu0J2nhbm7jb.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=eaccb1c3ce718d163490f0b63f7391de8f3c87c5" type="image/jpeg" />
+    <media:content url="https://external-preview.redd.it/MWEyODFjYjIxMWxnMbyZ9FPuEIglgB8GPLf1BOo5KRDyOkImfu0J2nhbm7jb.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=eaccb1c3ce718d163490f0b63f7391de8f3c87c5" type="image/jpeg" />
+    <dual_score>15.2</dual_score>
+    <tier>D</tier>
   </item>
   <item>
-    <title>Active Conflicts &amp;amp; News Megathread February 20, 2026</title>
-    <link>https://reddit.com/r/CredibleDefense/comments/1r9rwe8/active_conflicts_news_megathread_february_20_2026/</link>
-    <guid isPermaLink="true">https://reddit.com/r/CredibleDefense/comments/1r9rwe8/active_conflicts_news_megathread_february_20_2026/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>33</strong> upvotes | 💬 <strong>85</strong> comments
-| 📊 95% upvoted | ⭐ <strong>דירוג: B</strong> (55.2/100)
+    <title>Chin Defense Force Hakha uses an FPV drone to attack a Myanmar (Burmese) junta army camp (February 20, 2026; music from source)</title>
+    <link>https://reddit.com/r/CombatFootage/comments/1rafqrl/chin_defense_force_hakha_uses_an_fpv_drone_to/</link>
+    <description><![CDATA[<div style="padding:10px;background:#f6f8fa;border-radius:6px;margin-bottom:10px;">
+🔺 <strong>56</strong> | 💬 <strong>7</strong> | דירוג: <strong>D</strong> (15.1/100)
 </div>
-<p>The r/CredibleDefense daily megathread is for asking questions and posting submissions that would not fit the criteria of our post submissions. As such, submissions are less stringently moderated, but we still do keep an elevated guideline for comments. Comment guidelines: Please do: \* Be curious not judgmental, polite and civil, \* Link to the article or source of information that you are referring to, \* Clearly separate your opinion from what the source says. Minimize editorializing. Do \_not\_ cherry pick facts to support a preferred narrative, \* Read the articles before you comment, and comment on the content of the articles, \* Post only credible information \* Read our in depth rules [https://reddit.com/r/CredibleDefense/wiki/rules](https://reddit.com/r/CredibleDefense/wiki/rules)...</p>
-<hr />
-📡 <strong>Subreddit:</strong> r/CredibleDefense
-👤 <strong>Author:</strong> u/AutoModerator
-🔗 <strong>Domain:</strong> self.CredibleDefense
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/CredibleDefense/comments/1r9rwe8/active_conflicts_news_megathread_february_20_2026/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
+<div style="margin:15px 0;text-align:center;">
+<img src="https://external-preview.redd.it/ZGlleHA5YWZpcmtnMbMNAEeOyfOX0N03tIKAymbWSavrjipTELp2mT5q01sp.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=272136cc9795db6c0d6d8c406f73913e4a9c0c52" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+<img src="https://external-preview.redd.it/ZGlleHA5YWZpcmtnMbMNAEeOyfOX0N03tIKAymbWSavrjipTELp2mT5q01sp.png?format=pjpg&auto=webp&s=1bc44a52481cd3895e3078010f99f6dea5735739" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+</div>
+<div style="margin-top:15px;padding:12px;background:#f0f0f0;border-radius:6px;text-align:center;">
+<a href="https://reddit.com/r/CombatFootage/comments/1rafqrl/chin_defense_force_hakha_uses_an_fpv_drone_to/">🔗 צפה בפוסט ברדיט</a>
+ | <a href="https://v.redd.it/bxxcp0afirkg1">🌐 קישור</a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Active Conflicts &amp; News Megathread February 20, 2026
- (r/CredibleDefense | 33🔺 85💬)
-👉 https://reddit.com/r/CredibleDefense/comments/1r9rwe8/active_conflicts_news_megathread_february_20_2026/]]></twitter_summary>
-    <reddit:score>33</reddit:score>
-    <reddit:comments>85</reddit:comments>
-    <reddit:upvote_ratio>0.95</reddit:upvote_ratio>
-    <reddit:subreddit>r/CredibleDefense</reddit:subreddit>
-    <reddit:author>u/AutoModerator</reddit:author>
-    <dual_score>55.2</dual_score>
-    <tier>B</tier>
-    <relevancy_score>5</relevancy_score>
-    <category>military</category>
-    <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:38 +0000</pubDate>
+    <enclosure url="https://external-preview.redd.it/ZGlleHA5YWZpcmtnMbMNAEeOyfOX0N03tIKAymbWSavrjipTELp2mT5q01sp.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=272136cc9795db6c0d6d8c406f73913e4a9c0c52" type="image/jpeg" />
+    <media:content url="https://external-preview.redd.it/ZGlleHA5YWZpcmtnMbMNAEeOyfOX0N03tIKAymbWSavrjipTELp2mT5q01sp.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=272136cc9795db6c0d6d8c406f73913e4a9c0c52" type="image/jpeg" />
+    <dual_score>15.1</dual_score>
+    <tier>D</tier>
   </item>
   <item>
-    <title>Active Conflicts &amp;amp; News Megathread February 21, 2026</title>
-    <link>https://reddit.com/r/CredibleDefense/comments/1ranxf3/active_conflicts_news_megathread_february_21_2026/</link>
-    <guid isPermaLink="true">https://reddit.com/r/CredibleDefense/comments/1ranxf3/active_conflicts_news_megathread_february_21_2026/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>33</strong> upvotes | 💬 <strong>70</strong> comments
-| 📊 97% upvoted | ⭐ <strong>דירוג: B</strong> (54.5/100)
+    <title>Myanmar (Burmese) Anti-Junta Guerrilla Sniper Compilation (2023-2026) [music and effects from sources]</title>
+    <link>https://reddit.com/r/CombatFootage/comments/1ragek2/myanmar_burmese_antijunta_guerrilla_sniper/</link>
+    <description><![CDATA[<div style="padding:10px;background:#f6f8fa;border-radius:6px;margin-bottom:10px;">
+🔺 <strong>115</strong> | 💬 <strong>10</strong> | דירוג: <strong>D</strong> (11.5/100)
 </div>
-<p>The r/CredibleDefense daily megathread is for asking questions and posting submissions that would not fit the criteria of our post submissions. As such, submissions are less stringently moderated, but we still do keep an elevated guideline for comments. Comment guidelines: Please do: \* Be curious not judgmental, polite and civil, \* Link to the article or source of information that you are referring to, \* Clearly separate your opinion from what the source says. Minimize editorializing. Do \_not\_ cherry pick facts to support a preferred narrative, \* Read the articles before you comment, and comment on the content of the articles, \* Post only credible information \* Read our in depth rules [https://reddit.com/r/CredibleDefense/wiki/rules](https://reddit.com/r/CredibleDefense/wiki/rules)...</p>
-<hr />
-📡 <strong>Subreddit:</strong> r/CredibleDefense
-👤 <strong>Author:</strong> u/AutoModerator
-🔗 <strong>Domain:</strong> self.CredibleDefense
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/CredibleDefense/comments/1ranxf3/active_conflicts_news_megathread_february_21_2026/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Active Conflicts &amp; News Megathread February 21, 2026
- (r/CredibleDefense | 33🔺 70💬)
-👉 https://reddit.com/r/CredibleDefense/comments/1ranxf3/active_conflicts_news_megathread_february_21_2026/]]></twitter_summary>
-    <reddit:score>33</reddit:score>
-    <reddit:comments>70</reddit:comments>
-    <reddit:upvote_ratio>0.97</reddit:upvote_ratio>
-    <reddit:subreddit>r/CredibleDefense</reddit:subreddit>
-    <reddit:author>u/AutoModerator</reddit:author>
-    <dual_score>54.5</dual_score>
-    <tier>B</tier>
-    <relevancy_score>5</relevancy_score>
-    <category>military</category>
-    <priority>high</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>Ukrainian soldiers cleared Russian positions under constant enemy drone attacks. Kostiantinivka direction, Chameleon unit, 93rd Mechanized Brigade. Published 20.02.2026</title>
-    <link>https://reddit.com/r/CombatFootage/comments/1rae4ww/ukrainian_soldiers_cleared_russian_positions/</link>
-    <guid isPermaLink="true">https://reddit.com/r/CombatFootage/comments/1rae4ww/ukrainian_soldiers_cleared_russian_positions/</guid>
-    <description><![CDATA[<div style="padding:10px;background:#f0f0f0;border-radius:5px;margin-bottom:10px;">
-🔺 <strong>301</strong> upvotes | 💬 <strong>8</strong> comments
-| 📊 97% upvoted | ⭐ <strong>דירוג: B</strong> (53.9/100)
+<div style="margin:15px 0;text-align:center;">
+<img src="https://external-preview.redd.it/NHdqaGNwN3BucmtnMSnAU0vDqaDogm-G_YaztZb-GiNHoccOsKkkBylgo2-s.png?format=pjpg&auto=webp&s=742cd49cdec8fd5e018d016e363a668ab40ce856" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+<video controls style="max-width:100%;border-radius:8px;"><source src="https://v.redd.it/e1ozgh7pnrkg1/CMAF_720.mp4?source=fallback" type="video/mp4" /></video><br/><br/>
 </div>
-<p>Disclaimer: This video is for educational and informational purposes only. It is neither intended to glorify nor encourage violence. It simply documents the brutal reality of war and shows how military units edit and publish their footage. Viewer discretion advised! Remember Rule 1!</p>
-<hr />
-📡 <strong>Subreddit:</strong> r/CombatFootage
-👤 <strong>Author:</strong> u/GermanDronePilot
-🔗 <strong>Domain:</strong> v.redd.it
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-<a href="https://reddit.com/r/CombatFootage/comments/1rae4ww/ukrainian_soldiers_cleared_russian_positions/" target="_blank"><strong>🔗 צפה בפוסט ברדיט ←</strong></a>
-<br/><a href="https://v.redd.it/sjacr4945rkg1" target="_blank"><strong>🌐 קישור חיצוני ←</strong></a>
+<p style="line-height:1.6;">Before anyone says that the unarmed people wearing shirts and shorts are civilians, junta soldiers are known for engaging in combat while wearing football jerseys and tennis shoes.</p>
+<div style="margin-top:15px;padding:12px;background:#f0f0f0;border-radius:6px;text-align:center;">
+<a href="https://reddit.com/r/CombatFootage/comments/1ragek2/myanmar_burmese_antijunta_guerrilla_sniper/">🔗 צפה בפוסט ברדיט</a>
+ | <a href="https://v.redd.it/e1ozgh7pnrkg1">🌐 קישור</a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Ukrainian soldiers cleared Russian positions under constant enemy drone attacks. Kostiantinivka direction, Chameleon unit, 93rd Mechanized Brigade. Published 20.02.2026
- (r/CombatFootage | 301🔺 8💬)
-👉 https://reddit.com/r/CombatFootage/comments/1rae4ww/ukrainian_soldiers_cleare...]]></twitter_summary>
-    <reddit:score>301</reddit:score>
-    <reddit:comments>8</reddit:comments>
-    <reddit:upvote_ratio>0.97</reddit:upvote_ratio>
-    <reddit:subreddit>r/CombatFootage</reddit:subreddit>
-    <reddit:author>u/GermanDronePilot</reddit:author>
-    <dual_score>53.9</dual_score>
-    <tier>B</tier>
-    <relevancy_score>5</relevancy_score>
-    <category>military</category>
-    <priority>medium</priority>
-    <pubDate>Sun, 22 Feb 2026 13:44:23 +0000</pubDate>
+    <enclosure url="https://external-preview.redd.it/NHdqaGNwN3BucmtnMSnAU0vDqaDogm-G_YaztZb-GiNHoccOsKkkBylgo2-s.png?format=pjpg&auto=webp&s=742cd49cdec8fd5e018d016e363a668ab40ce856" type="image/jpeg" />
+    <media:content url="https://external-preview.redd.it/NHdqaGNwN3BucmtnMSnAU0vDqaDogm-G_YaztZb-GiNHoccOsKkkBylgo2-s.png?format=pjpg&auto=webp&s=742cd49cdec8fd5e018d016e363a668ab40ce856" type="image/jpeg" />
+    <dual_score>11.5</dual_score>
+    <tier>D</tier>
   </item>
 </channel>
 </rss>
