@@ -5,71 +5,50 @@
   <link>https://spz.local/nyt-homepage.xml</link>
   <description>Feed from NYT Homepage - with images and summaries</description>
   <language>en</language>
-  <lastBuildDate>Sun, 22 Feb 2026 21:14:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 02:27:50 +0000</lastBuildDate>
   <atom:link href="https://spz.local/nyt-homepage.xml" rel="self" type="application/rss+xml" />
   <generator>SPZ Aggregator v2.0 (Per-Feed)</generator>
   <item>
-    <title>Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says</title>
-    <link>https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html</guid>
-    <description><![CDATA[<p>The local sheriff identified the man as a 21-year-old resident of Cameron, N.C. The president was not at his resort in Florida and has not commented on the shooting.</p>
+    <title>New York City Faces Its Second Big Storm in Weeks</title>
+    <link>https://www.nytimes.com/2026/02/22/weather/storm-nyc-preparations-mamdani.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/weather/storm-nyc-preparations-mamdani.html</guid>
+    <description><![CDATA[<p>The storm in late January was bad enough. This one is bringing true blizzard conditions, and the city has stepped up its response.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Minho Kim, Sonia A. Rao and Tyler Pager
+👤 <strong>מחבר:</strong> Mihir Zaveri
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/22/weather/storm-nyc-preparations-mamdani.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says
-The local sheriff identified the man as a 21-year-old resident of Cameron, N.C. The president was not a... (NYT Homepage | Minho Kim, Sonia A. Rao and Tyler Pager)
-👉 https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 21:02:47 +0000</pubDate>
+    <twitter_summary><![CDATA[New York City Faces Its Second Big Storm in Weeks
+The storm in late January was bad enough. This one is bringing true blizzard conditions, and the city has stepped up its response. (NYT Homepage | Mihir Zaveri)
+👉 https://www.nytimes.com/2026/02/22/weather/storm-nyc-preparations-mamdani.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 22:35:51 +0000</pubDate>
     <category>news</category>
-    <author>Minho Kim, Sonia A. Rao and Tyler Pager</author>
+    <author>Mihir Zaveri</author>
   </item>
   <item>
-    <title>They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.</title>
-    <link>https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html</guid>
-    <description><![CDATA[<p>Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they might have been better off waiting.</p>
+    <title>Trump Considers Targeted Strike Against Iran, Followed by Larger Attack</title>
+    <link>https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html</guid>
+    <description><![CDATA[<p>The top negotiators plan to meet in Geneva on Thursday for last-ditch talks, debating a new proposal that could create an off-ramp as two carrier groups massed within striking distance of Iran.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Alexandra Stevenson and River Akira Davis
+👤 <strong>מחבר:</strong> Julian E. Barnes, David E. Sanger, Tyler Pager and Eric Schmitt
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.
-Countries that under the threat of tariffs made commitments like enormous investment pledges f... (NYT Homepage | Alexandra Stevenson and River Akira Davis)
-👉 https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 19:00:47 +0000</pubDate>
+    <twitter_summary><![CDATA[Trump Considers Targeted Strike Against Iran, Followed by Larger Attack
+The top negotiators plan to meet in Geneva on Thursday for last-ditc... (NYT Homepage | Julian E. Barnes, David E. Sanger, Tyler Pager and Eric Schmitt)
+👉 https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 21:50:06 +0000</pubDate>
     <category>news</category>
-    <author>Alexandra Stevenson and River Akira Davis</author>
-  </item>
-  <item>
-    <title>Who Won the Olympics? All the Ways to Count We Could Think Of.</title>
-    <link>https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html</guid>
-    <description><![CDATA[<p>Which country won the most events on snow, ice or sliding track? Here are all the ways we could think of to track the medal count.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Ben Blatt
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Who Won the Olympics? All the Ways to Count We Could Think Of.
-Which country won the most events on snow, ice or sliding track? Here are all the ways we could think of to track the medal count. (NYT Homepage | Ben Blatt)
-👉 https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 16:16:05 +0000</pubDate>
-    <category>news</category>
-    <author>Ben Blatt</author>
+    <author>Julian E. Barnes, David E. Sanger, Tyler Pager and Eric Schmitt</author>
   </item>
   <item>
     <title>Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn</title>
@@ -93,130 +72,46 @@ Security officials are monitoring increasingly worrisome signs as President Trum
     <author>Eric Schmitt</author>
   </item>
   <item>
-    <title>Iran Students Protest for Second Day Despite State Crackdown</title>
-    <link>https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html</guid>
-    <description><![CDATA[<p>Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.</p>
+    <title>Inside Iran’s Preparations for War and Plans for Survival</title>
+    <link>https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html</guid>
+    <description><![CDATA[<p>Ayatollah Ali Khamenei has entrusted Ali Larijani, the top national security official, to ensure the Islamic Republic endures any military attacks and targeted killings.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Erika Solomon, Sanam Mahoozi and Devon Lum
+👤 <strong>מחבר:</strong> Farnaz Fassihi
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Iran Students Protest for Second Day Despite State Crackdown
-Student groups reported protests at universities in Iran’s two largest cities as the government grap... (NYT Homepage | Erika Solomon, Sanam Mahoozi and Devon Lum)
-👉 https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 20:55:30 +0000</pubDate>
+    <twitter_summary><![CDATA[Inside Iran’s Preparations for War and Plans for Survival
+Ayatollah Ali Khamenei has entrusted Ali Larijani, the top national security official, to ensure the Islamic Republic endures any m... (NYT Homepage | Farnaz Fassihi)
+👉 https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html]]></twitter_summary>
+    <pubDate>Mon, 23 Feb 2026 01:16:04 +0000</pubDate>
     <category>news</category>
-    <author>Erika Solomon, Sanam Mahoozi and Devon Lum</author>
+    <author>Farnaz Fassihi</author>
   </item>
   <item>
-    <title>The Ex-Taxi Driver at the Center of Russia’s Shadow War</title>
-    <link>https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html</guid>
-    <description><![CDATA[<p>The Kremlin’s sabotage campaign against European allies of Ukraine has been escalating. It needs people like Aleksei Kolosovsky, 42, to carry it out.</p>
+    <title>Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says</title>
+    <link>https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html</guid>
+    <description><![CDATA[<p>The local sheriff identified the man as a 21-year-old resident of Cameron, N.C. The president was not at his resort in Florida and has not commented on the shooting.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Michael Schwirtz and Adam Goldman
+👤 <strong>מחבר:</strong> Minho Kim, Sonia A. Rao and Tyler Pager
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[The Ex-Taxi Driver at the Center of Russia’s Shadow War
-The Kremlin’s sabotage campaign against European allies of Ukraine has been escalating. It needs people like Aleks... (NYT Homepage | Michael Schwirtz and Adam Goldman)
-👉 https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 14:02:25 +0000</pubDate>
+    <twitter_summary><![CDATA[Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says
+The local sheriff identified the man as a 21-year-old resident of Cameron, N.C. The president was not a... (NYT Homepage | Minho Kim, Sonia A. Rao and Tyler Pager)
+👉 https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html]]></twitter_summary>
+    <pubDate>Sun, 22 Feb 2026 23:26:01 +0000</pubDate>
     <category>news</category>
-    <author>Michael Schwirtz and Adam Goldman</author>
-  </item>
-  <item>
-    <title>Russia Attacks Ukraine Ahead of Invasion’s 4th Anniversary</title>
-    <link>https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html</guid>
-    <description><![CDATA[<p>At least one man was killed in Kyiv as Moscow launched a wave of drones and missiles, days after the latest round of U.S.-mediated talks to end the war.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Kim Barker
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[Russia Attacks Ukraine Ahead of Invasion’s 4th Anniversary
-At least one man was killed in Kyiv as Moscow launched a wave of drones and missiles, days after the latest round of U.S.-mediated tal... (NYT Homepage | Kim Barker)
-👉 https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 18:44:04 +0000</pubDate>
-    <category>news</category>
-    <author>Kim Barker</author>
-  </item>
-  <item>
-    <title>They Killed Their Abusers. Should They Spend Their Lives in Prison?</title>
-    <link>https://www.nytimes.com/2026/02/22/magazine/oklahoma-domestic-violence-survivors-act.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/magazine/oklahoma-domestic-violence-survivors-act.html</guid>
-    <description><![CDATA[<p>A new law was supposed to help reduce the sentences of survivors of domestic violence. Most are still behind bars.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Pamela Colloff
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/magazine/oklahoma-domestic-violence-survivors-act.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[They Killed Their Abusers. Should They Spend Their Lives in Prison?
-A new law was supposed to help reduce the sentences of survivors of domestic violence. Most are still behind bars. (NYT Homepage | Pamela Colloff)
-👉 https://www.nytimes.com/2026/02/22/magazine/oklahoma-domestic-violence-survivors-act.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 10:00:24 +0000</pubDate>
-    <category>news</category>
-    <author>Pamela Colloff</author>
-  </item>
-  <item>
-    <title>2026 BAFTAs Winners: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’</title>
-    <link>https://www.nytimes.com/2026/02/22/movies/baftas-2026.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/movies/baftas-2026.html</guid>
-    <description><![CDATA[<p>Paul Thomas Anderson’s comedy drama won six awards at the British equivalent of the Oscars. The best actor choice, however, was a surprise.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Alex Marshall
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/movies/baftas-2026.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[2026 BAFTAs Winners: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’
-Paul Thomas Anderson’s comedy drama won six awards at the British equivalent of the Oscars. The best actor c... (NYT Homepage | Alex Marshall)
-👉 https://www.nytimes.com/2026/02/22/movies/baftas-2026.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 20:55:36 +0000</pubDate>
-    <category>news</category>
-    <author>Alex Marshall</author>
-  </item>
-  <item>
-    <title>2026 BAFTA Awards Photos: Looks From the Red Carpet</title>
-    <link>https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html</guid>
-    <description><![CDATA[<p>Teyana Taylor, Paul Mescal, Michael B. Jordan and the Prince of Wales turned out in style for Britain’s biggest celebration of film.</p>
-
-<hr />
-
-📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> The Styles Desk
-
-<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
-</div>]]></description>
-    <twitter_summary><![CDATA[2026 BAFTA Awards Photos: Looks From the Red Carpet
-Teyana Taylor, Paul Mescal, Michael B. Jordan and the Prince of Wales turned out in style for Britain’s biggest celebration of film. (NYT Homepage | The Styles Desk)
-👉 https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html]]></twitter_summary>
-    <pubDate>Sun, 22 Feb 2026 19:21:02 +0000</pubDate>
-    <category>news</category>
-    <author>The Styles Desk</author>
+    <author>Minho Kim, Sonia A. Rao and Tyler Pager</author>
   </item>
 </channel>
 </rss>
