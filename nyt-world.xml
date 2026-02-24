@@ -5,7 +5,7 @@
   <link>https://spz.local/nyt-world.xml</link>
   <description>Feed from NYT World - with images and summaries</description>
   <language>en</language>
-  <lastBuildDate>Tue, 24 Feb 2026 02:08:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 02:06:33 +0000</lastBuildDate>
   <atom:link href="https://spz.local/nyt-world.xml" rel="self" type="application/rss+xml" />
   <generator>SPZ Aggregator v2.0 (Per-Feed)</generator>
   <item>
@@ -91,6 +91,27 @@ The government in Tehran sees capitulating to Washington’s demands on uranium 
     <pubDate>Mon, 23 Feb 2026 14:20:42 +0000</pubDate>
     <category>news</category>
     <author>Erika Solomon</author>
+  </item>
+  <item>
+    <title>Settlers in the Israeli-Occupied West Bank Drive a Palestinian Family Off Its Land</title>
+    <link>https://www.nytimes.com/2026/02/23/world/palestinian-west-bank-settlers-displacement.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/23/world/palestinian-west-bank-settlers-displacement.html</guid>
+    <description><![CDATA[<p>For two years, settlers attacked Rezeq Abu Naim’s land in the Israeli-occupied West Bank at all hours and in all manners. After another violent incursion over the weekend, his family abandoned their home.</p>
+
+<hr />
+
+📡 <strong>מקור:</strong> NYT World
+👤 <strong>מחבר:</strong> Azam Ahmed
+
+<div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
+🔗 <a href="https://www.nytimes.com/2026/02/23/world/palestinian-west-bank-settlers-displacement.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+</div>]]></description>
+    <twitter_summary><![CDATA[Settlers in the Israeli-Occupied West Bank Drive a Palestinian Family Off Its Land
+For two years, settlers attacked Rezeq Abu Naim’s land in the Israeli-occupied West Bank at all hours and in all ... (NYT World | Azam Ahmed)
+👉 https://www.nytimes.com/2026/02/23/world/palestinian-west-bank-settlers-displacement.html]]></twitter_summary>
+    <pubDate>Mon, 23 Feb 2026 19:30:22 +0000</pubDate>
+    <category>news</category>
+    <author>Azam Ahmed</author>
   </item>
 </channel>
 </rss>
