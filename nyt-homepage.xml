@@ -5,113 +5,113 @@
   <link>https://spz.local/nyt-homepage.xml</link>
   <description>Feed from NYT Homepage - with images and summaries</description>
   <language>en</language>
-  <lastBuildDate>Tue, 24 Feb 2026 02:06:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 11:13:16 +0000</lastBuildDate>
   <atom:link href="https://spz.local/nyt-homepage.xml" rel="self" type="application/rss+xml" />
   <generator>SPZ Aggregator v2.0 (Per-Feed)</generator>
   <item>
-    <title>Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs</title>
-    <link>https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html</guid>
-    <description><![CDATA[<p>President Trump is already working to piece his tariff program back together, after a Supreme Court ruling ruptured a centerpiece of his economic agenda.</p>
+    <title>The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored</title>
+    <link>https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html</guid>
+    <description><![CDATA[<p>If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Ana Swanson
+👤 <strong>מחבר:</strong> Tripp Mickle
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs
-President Trump is already working to piece his tariff program back together, after a Supreme Court ruling ruptured a cen... (NYT Homepage | Ana Swanson)
-👉 https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html]]></twitter_summary>
-    <pubDate>Mon, 23 Feb 2026 22:27:40 +0000</pubDate>
+    <twitter_summary><![CDATA[The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored
+If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would... (NYT Homepage | Tripp Mickle)
+👉 https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html]]></twitter_summary>
+    <pubDate>Tue, 24 Feb 2026 05:00:18 +0000</pubDate>
     <category>news</category>
-    <author>Ana Swanson</author>
+    <author>Tripp Mickle</author>
   </item>
   <item>
-    <title>FedEx Sues for Refund of Trump Tariffs Rejected by Supreme Court</title>
-    <link>https://www.nytimes.com/2026/02/23/business/fedex-lawsuit-tariffs-refund.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/23/business/fedex-lawsuit-tariffs-refund.html</guid>
-    <description><![CDATA[<p>The company, which did not specify how much it was seeking, is expected to be one of many demanding compensation for levies ruled unlawful.</p>
+    <title>China Amps Up Pressure on Japan With Restrictions on Exports</title>
+    <link>https://www.nytimes.com/2026/02/24/world/asia/china-japan-export-ban.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/24/world/asia/china-japan-export-ban.html</guid>
+    <description><![CDATA[<p>Beijing placed the restrictions on 20 Japanese entities with ties to the defense industry, the latest ratcheting up of its monthslong feud with Tokyo.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Peter Eavis
+👤 <strong>מחבר:</strong> Javier C. Hernández
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/23/business/fedex-lawsuit-tariffs-refund.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/24/world/asia/china-japan-export-ban.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[FedEx Sues for Refund of Trump Tariffs Rejected by Supreme Court
-The company, which did not specify how much it was seeking, is expected to be one of many demanding compensation for levies rul... (NYT Homepage | Peter Eavis)
-👉 https://www.nytimes.com/2026/02/23/business/fedex-lawsuit-tariffs-refund.html]]></twitter_summary>
-    <pubDate>Tue, 24 Feb 2026 01:39:26 +0000</pubDate>
+    <twitter_summary><![CDATA[China Amps Up Pressure on Japan With Restrictions on Exports
+Beijing placed the restrictions on 20 Japanese entities with ties to the defense industry, the latest ratcheting up of its ... (NYT Homepage | Javier C. Hernández)
+👉 https://www.nytimes.com/2026/02/24/world/asia/china-japan-export-ban.html]]></twitter_summary>
+    <pubDate>Tue, 24 Feb 2026 10:31:48 +0000</pubDate>
     <category>news</category>
-    <author>Peter Eavis</author>
+    <author>Javier C. Hernández</author>
   </item>
   <item>
-    <title>Judges Grow Angry Over Trump Administration Violating Their Orders</title>
-    <link>https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html</guid>
-    <description><![CDATA[<p>At least 35 times since August, federal judges have ordered the administration to explain why it should not be punished for violating their orders in immigration cases.</p>
+    <title>ICE Whistle-Blower Says Training Is ‘Broken,’ and OpenAI Faces Questions About Mass Shooter</title>
+    <link>https://www.nytimes.com/2026/02/24/podcasts/the-headlines/ice-whistleblower-openai-mass-shooter.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/24/podcasts/the-headlines/ice-whistleblower-openai-mass-shooter.html</guid>
+    <description><![CDATA[<p>Plus, how Mexico tracked its most-wanted cartel leader.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Mattathias Schwartz, Zach Montague and Ernesto Londoño
+👤 <strong>מחבר:</strong> Tracy Mumford, Will Jarvis, Ian Stewart and Adam Satariano
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/24/podcasts/the-headlines/ice-whistleblower-openai-mass-shooter.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Judges Grow Angry Over Trump Administration Violating Their Orders
-At least 35 times since August, federal judges have ordered the administration to ... (NYT Homepage | Mattathias Schwartz, Zach Montague and Ernesto Londoño)
-👉 https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html]]></twitter_summary>
-    <pubDate>Mon, 23 Feb 2026 10:04:09 +0000</pubDate>
+    <twitter_summary><![CDATA[ICE Whistle-Blower Says Training Is ‘Broken,’ and OpenAI Faces Questions About Mass Shooter
+Plus, how Mexico tracked its most-wanted cartel leader. (NYT Homepage | Tracy Mumford, Will Jarvis, Ian Stewart and Adam Satariano)
+👉 https://www.nytimes.com/2026/02/24/podcasts/the-headlines/ice-whistleblower-openai-mass-shooter.html]]></twitter_summary>
+    <pubDate>Tue, 24 Feb 2026 11:00:11 +0000</pubDate>
     <category>news</category>
-    <author>Mattathias Schwartz, Zach Montague and Ernesto Londoño</author>
+    <author>Tracy Mumford, Will Jarvis, Ian Stewart and Adam Satariano</author>
   </item>
   <item>
-    <title>‘Angel Families’ Return to Washington to Back Up Trump Ahead of State of the Union</title>
-    <link>https://www.nytimes.com/2026/02/23/us/politics/trump-angel-families-undocumented-immigrants.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/23/us/politics/trump-angel-families-undocumented-immigrants.html</guid>
-    <description><![CDATA[<p>The families of people killed by undocumented immigrants have forged a bond with the president, who has invited some of them to his address on Tuesday.</p>
+    <title>These Ukrainians Don’t Want to Be Traded to Russia for Peace</title>
+    <link>https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-donetsk.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-donetsk.html</guid>
+    <description><![CDATA[<p>Four years into the war, a major sticking point in talks is control of the eastern Donetsk region. Residents could face an agonizing choice if Ukraine gives up the territory.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> Katie Rogers
+👤 <strong>מחבר:</strong> Andrew E. Kramer, Lynsey Addario and Tyler Hicks
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/23/us/politics/trump-angel-families-undocumented-immigrants.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-donetsk.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[‘Angel Families’ Return to Washington to Back Up Trump Ahead of State of the Union
-The families of people killed by undocumented immigrants have forged a bond with the president, who has invi... (NYT Homepage | Katie Rogers)
-👉 https://www.nytimes.com/2026/02/23/us/politics/trump-angel-families-undocumented-immigrants.html]]></twitter_summary>
-    <pubDate>Mon, 23 Feb 2026 19:19:08 +0000</pubDate>
+    <twitter_summary><![CDATA[These Ukrainians Don’t Want to Be Traded to Russia for Peace
+Four years into the war, a major sticking point in talks is control of the eastern Donetsk reg... (NYT Homepage | Andrew E. Kramer, Lynsey Addario and Tyler Hicks)
+👉 https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-donetsk.html]]></twitter_summary>
+    <pubDate>Tue, 24 Feb 2026 05:01:43 +0000</pubDate>
     <category>news</category>
-    <author>Katie Rogers</author>
+    <author>Andrew E. Kramer, Lynsey Addario and Tyler Hicks</author>
   </item>
   <item>
-    <title>Mexican Forces Say They Tracked El Mencho to Cabin by Following His Lover</title>
-    <link>https://www.nytimes.com/2026/02/23/world/americas/el-mencho-mexico-cartel-military-raid.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/02/23/world/americas/el-mencho-mexico-cartel-military-raid.html</guid>
-    <description><![CDATA[<p>Top security officials revealed details of the operation that led to the death of Mexico’s most wanted drug cartel leader.</p>
+    <title>How Russia Put Its Future at Risk by Remaking Its Economy for War</title>
+    <link>https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html</guid>
+    <description><![CDATA[<p>About half of the country’s federal budget goes toward the fight in Ukraine, money that does little to support its long-term development.</p>
 
 <hr />
 
 📡 <strong>מקור:</strong> NYT Homepage
-👤 <strong>מחבר:</strong> James Wagner
+👤 <strong>מחבר:</strong> Paul Sonne
 
 <div style="margin-top:15px;padding:10px;background:#f5f5f5;border-radius:5px;text-align:center;">
-🔗 <a href="https://www.nytimes.com/2026/02/23/world/americas/el-mencho-mexico-cartel-military-raid.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
+🔗 <a href="https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html" target="_blank"><strong>קרא את הכתבה המלאה ←</strong></a>
 </div>]]></description>
-    <twitter_summary><![CDATA[Mexican Forces Say They Tracked El Mencho to Cabin by Following His Lover
-Top security officials revealed details of the operation that led to the death of Mexico’s most wanted drug cartel leader. (NYT Homepage | James Wagner)
-👉 https://www.nytimes.com/2026/02/23/world/americas/el-mencho-mexico-cartel-military-raid.html]]></twitter_summary>
-    <pubDate>Tue, 24 Feb 2026 00:32:16 +0000</pubDate>
+    <twitter_summary><![CDATA[How Russia Put Its Future at Risk by Remaking Its Economy for War
+About half of the country’s federal budget goes toward the fight in Ukraine, money that does little to support its long-term de... (NYT Homepage | Paul Sonne)
+👉 https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html]]></twitter_summary>
+    <pubDate>Tue, 24 Feb 2026 10:37:10 +0000</pubDate>
     <category>news</category>
-    <author>James Wagner</author>
+    <author>Paul Sonne</author>
   </item>
 </channel>
 </rss>
