@@ -4,12 +4,12 @@
   <title>Reddit Top 10</title>
   <link>https://spz.local/reddit-top10.xml</link>
   <description>Top posts</description>
-  <lastBuildDate>Tue, 24 Feb 2026 01:50:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 02:09:41 +0000</lastBuildDate>
   <item>
     <title>CNDF Anti-Junta forces ambush Myanmar Junta soldiers with thermal equipped weaponry, February 2026, somewhere in Chin State</title>
     <link>https://reddit.com/r/CombatFootage/comments/1rctuok/cndf_antijunta_forces_ambush_myanmar_junta/</link>
     <description><![CDATA[<div style="padding:10px;background:#f6f8fa;border-radius:6px;margin-bottom:10px;">
-🔺 <strong>50</strong> | 💬 <strong>6</strong> | דירוג: <strong>D</strong> (10.1/100)
+🔺 <strong>52</strong> | 💬 <strong>7</strong> | דירוג: <strong>D</strong> (10.2/100)
 </div>
 <div style="margin:15px 0;text-align:center;">
 <img src="https://external-preview.redd.it/a3hxeDB1Z2I2YmxnMVYvF3cNc7LLMVvBh7qA5-MG-fZaaExrjrzACkrCTOZo.png?format=pjpg&auto=webp&s=2f3f5f8faef8c1d0bb6eea76e1f348765be68d4a" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
@@ -21,7 +21,26 @@
 </div>]]></description>
     <enclosure url="https://external-preview.redd.it/a3hxeDB1Z2I2YmxnMVYvF3cNc7LLMVvBh7qA5-MG-fZaaExrjrzACkrCTOZo.png?format=pjpg&auto=webp&s=2f3f5f8faef8c1d0bb6eea76e1f348765be68d4a" type="image/jpeg" />
     <media:content url="https://external-preview.redd.it/a3hxeDB1Z2I2YmxnMVYvF3cNc7LLMVvBh7qA5-MG-fZaaExrjrzACkrCTOZo.png?format=pjpg&auto=webp&s=2f3f5f8faef8c1d0bb6eea76e1f348765be68d4a" type="image/jpeg" />
-    <dual_score>10.1</dual_score>
+    <dual_score>10.2</dual_score>
+    <tier>D</tier>
+  </item>
+  <item>
+    <title>Sniper Sgt. Stephen McElroy engaging targets at Outpost Mace, Afghanistan. November 2011.</title>
+    <link>https://reddit.com/r/CombatFootage/comments/1rczzf2/sniper_sgt_stephen_mcelroy_engaging_targets_at/</link>
+    <description><![CDATA[<div style="padding:10px;background:#f6f8fa;border-radius:6px;margin-bottom:10px;">
+🔺 <strong>14</strong> | 💬 <strong>3</strong> | דירוג: <strong>D</strong> (9.8/100)
+</div>
+<div style="margin:15px 0;text-align:center;">
+<img src="https://external-preview.redd.it/dGRoeGN2bzJjY2xnMVD_ReQ-ovJcnEFx8whq5KBNrUoiktUJKZpedf3aYrZC.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=ea6267a98f31c315d0a2bee71bf4ed16f8e1cd5a" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+<img src="https://external-preview.redd.it/dGRoeGN2bzJjY2xnMVD_ReQ-ovJcnEFx8whq5KBNrUoiktUJKZpedf3aYrZC.png?format=pjpg&auto=webp&s=f76a5e3b1c2a2550e7dff1252d95a7a0b631a2eb" style="max-width:100%;max-height:400px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /><br/><br/>
+</div>
+<div style="margin-top:15px;padding:12px;background:#f0f0f0;border-radius:6px;text-align:center;">
+<a href="https://reddit.com/r/CombatFootage/comments/1rczzf2/sniper_sgt_stephen_mcelroy_engaging_targets_at/">🔗 צפה בפוסט ברדיט</a>
+ | <a href="https://v.redd.it/rap50lq2cclg1">🌐 קישור</a>
+</div>]]></description>
+    <enclosure url="https://external-preview.redd.it/dGRoeGN2bzJjY2xnMVD_ReQ-ovJcnEFx8whq5KBNrUoiktUJKZpedf3aYrZC.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=ea6267a98f31c315d0a2bee71bf4ed16f8e1cd5a" type="image/jpeg" />
+    <media:content url="https://external-preview.redd.it/dGRoeGN2bzJjY2xnMVD_ReQ-ovJcnEFx8whq5KBNrUoiktUJKZpedf3aYrZC.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=ea6267a98f31c315d0a2bee71bf4ed16f8e1cd5a" type="image/jpeg" />
+    <dual_score>9.8</dual_score>
     <tier>D</tier>
   </item>
 </channel>
